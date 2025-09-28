@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Gmail Ad Remover</title>
+  <link rel="stylesheet" href="popup.css">
+</head>
+<body>
+  <div class="container">
+    <header>
+      <div class="icon">🚫</div>
+      <h1>Gmail Ad Remover</h1>
+    </header>
+
+    <div class="status-section">
+      <div class="status-item">
+        <span class="status-label">Status:</span>
+        <span id="status" class="status-value">Carregando...</span>
+        <div class="toggle-switch">
+          <input type="checkbox" id="enableToggle" class="toggle-input">
+          <label for="enableToggle" class="toggle-label"></label>
+        </div>
+      </div>
+    </div>
+
+    <div class="stats-section">
+      <h3>Estatísticas</h3>
+      <div class="stats-grid">
+        <div class="stat-item">
+          <span class="stat-number" id="blockedCount">0</span>
+          <span class="stat-label">Anúncios Bloqueados</span>
+        </div>
+        <div class="stat-item">
+          <span class="stat-number" id="lastScan">--:--</span>
+          <span class="stat-label">Última Verificação</span>
+        </div>
+      </div>
+    </div>
+
+    <div class="actions-section">
+      <button id="scanNow" class="btn btn-primary">
+        <span class="btn-icon">🔍</span>
+        Verificar Agora
+      </button>
+      <button id="resetStats" class="btn btn-secondary">
+        <span class="btn-icon">🔄</span>
+        Resetar Contadores
+      </button>
+    </div>
+
+    <div class="settings-section">
+      <h3>Configurações</h3>
+      <div class="setting-item">
+        <label class="setting-label">
+          <input type="checkbox" id="autoRemove" class="setting-checkbox">
+          <span class="checkmark"></span>
+          Remoção Automática
+        </label>
+        <small class="setting-description">Remove anúncios automaticamente quando detectados</small>
+      </div>
+
+    </div>
+
+    <footer>
+      <div class="footer-links">
+        <a href="#" id="reportIssue">Reportar Problema</a>
+        <span class="separator">•</span>
+        <a href="#" id="about">Sobre</a>
+      </div>
+      <div class="version">v1.0.0</div>
+      <div class="copyright">Copyright © Delean Mafra<br>Todos os direitos reservados</div>
+    </footer>
+  </div>
+
+  <script src="popup.js"></script>
+</body>
+</html>

@@ -1,0 +1,32 @@
+{
+  "manifest_version": 3,
+  "name": "Gmail Ad Remover",
+  "version": "1.0.0",
+  "description": "Remove anúncios e elementos promocionais do Gmail para uma experiência mais limpa",
+  "author": "Delean Mafra",
+  "permissions": [
+    "activeTab",
+    "storage"
+  ],
+  "host_permissions": [
+    "https://mail.google.com/*"
+  ],
+  "content_scripts": [
+    {
+      "matches": [
+        "https://mail.google.com/*"
+      ],
+      "js": [
+        "content.js"
+      ],
+      "run_at": "document_start"
+    }
+  ],
+  "action": {
+    "default_popup": "popup.html",
+    "default_title": "Gmail Ad Remover"
+  },
+  "background": {
+    "service_worker": "background.js"
+  }
+}
