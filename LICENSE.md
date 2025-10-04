@@ -122,16 +122,6 @@ Fonte original: [URL do repositório]
 
 ---
 
-## 📞 Contato para Licenciamento Comercial
-
-Para usar esta extensão comercialmente, entre em contato:
-
-**Delean Mafra**  
-📧 Email: [seu-email@exemplo.com]  
-🔗 GitHub: [seu-github]  
-
----
-
 ## 🌍 Licença Internacional
 
 **English Summary:**  
@@ -158,4 +148,5 @@ El uso comercial está prohibido sin permiso explícito.
 
 
 *Para mais informações sobre Creative Commons, visite: https://creativecommons.org/*
+
 
