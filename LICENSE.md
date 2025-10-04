@@ -1,12 +1,3 @@
-# Licença Creative Commons
-
-## Gmail Ad Remover Extension
-
-**Copyright © 2025 Delean Mafra**  
-**Todos os direitos reservados**
-
----
-
 ## 📄 **LICENÇA CREATIVE COMMONS BY-NC-SA 4.0**
 
 <div align="center">
@@ -160,10 +151,11 @@ El uso comercial está prohibido sin permiso explícito.
 
 ---
 
-**© 2025 Delean Mafra - Todos os direitos reservados**  
+**Copyright © 2025 Delean Mafra - Todos os direitos reservados**  
 **Protegido pela licença Creative Commons BY-NC-SA 4.0**
 
 ---
 
 
 *Para mais informações sobre Creative Commons, visite: https://creativecommons.org/*
+
