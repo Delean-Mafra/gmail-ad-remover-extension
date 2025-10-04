@@ -7,14 +7,41 @@
 
 ---
 
-## Creative Commons Atribuição-NãoComercial-CompartilhaIgual 4.0 Internacional
+## 📄 **LICENÇA CREATIVE COMMONS BY-NC-SA 4.0**
 
-Esta obra está licenciada sob uma Licença Creative Commons Atribuição-NãoComercial-CompartilhaIgual 4.0 Internacional.
+<div align="center">
 
-### 🔗 Licença Completa
-Para ver uma cópia desta licença, visite:  
-https://creativecommons.org/licenses/by-nc-sa/4.0/deed.pt_BR
+[![CC](https://mirrors.creativecommons.org/presskit/icons/cc.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+[![BY](https://mirrors.creativecommons.org/presskit/icons/by.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+[![NC](https://mirrors.creativecommons.org/presskit/icons/nc.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+[![SA](https://mirrors.creativecommons.org/presskit/icons/sa.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
+</div>
+
+### 🔧 **Termos da Licença**
+
+<table>
+<tr>
+<td width="50%">
+
+**✅ Atribuição (BY)**
+> Você deve dar crédito apropriado, fornecer um link para a licença e indicar se mudanças foram feitas.
+
+**🚫 Não Comercial (NC)** 
+> Você não pode usar o material para fins comerciais sem autorização expressa do autor.
+
+</td>
+<td width="50%">
+
+**🔄 Compartilha Igual (SA)**
+> Se você remixar, transformar ou criar a partir do material, deve distribuir suas contribuições sob a mesma licença.
+
+**🔗 Link da Licença**
+> [creativecommons.org/licenses/by-nc-sa/4.0/deed.pt_BR](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.pt_BR)
+
+</td>
+</tr>
+</table>
 ---
 
 ## 📋 Resumo da Licença
@@ -137,5 +164,6 @@ El uso comercial está prohibido sin permiso explícito.
 **Protegido pela licença Creative Commons BY-NC-SA 4.0**
 
 ---
+
 
 *Para mais informações sobre Creative Commons, visite: https://creativecommons.org/*
