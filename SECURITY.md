@@ -3,9 +3,10 @@
 ## Gmail Ad Remover Extension
 
 **Desenvolvedor:** Delean Mafra  
-**Versão da Política:** 1.0  
+**Versão da Extensão:** 1.0.2  
+**Versão da Política:** 1.1  
 **Data de Vigência:** 28 de setembro de 2025  
-**Última Atualização:** 28 de setembro de 2025
+**Última Atualização:** 25 de outubro de 2025
 
 ---
 

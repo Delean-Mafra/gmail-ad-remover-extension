@@ -1,38 +1,20 @@
-## 📄 **LICENÇA CREATIVE COMMONS BY-NC-SA 4.0**
+# Licença Creative Commons
 
-<div align="center">
+## Gmail Ad Remover Extension
 
-[![CC](https://mirrors.creativecommons.org/presskit/icons/cc.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
-[![BY](https://mirrors.creativecommons.org/presskit/icons/by.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
-[![NC](https://mirrors.creativecommons.org/presskit/icons/nc.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
-[![SA](https://mirrors.creativecommons.org/presskit/icons/sa.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+**Copyright © 2025 Delean Mafra**  
+**Todos os direitos reservados**
 
-</div>
+---
 
-### 🔧 **Termos da Licença**
+## Creative Commons Atribuição-NãoComercial-CompartilhaIgual 4.0 Internacional
 
-<table>
-<tr>
-<td width="50%">
+Esta obra está licenciada sob uma Licença Creative Commons Atribuição-NãoComercial-CompartilhaIgual 4.0 Internacional.
 
-**✅ Atribuição (BY)**
-> Você deve dar crédito apropriado, fornecer um link para a licença e indicar se mudanças foram feitas.
+### 🔗 Licença Completa
+Para ver uma cópia desta licença, visite:  
+https://creativecommons.org/licenses/by-nc-sa/4.0/deed.pt_BR
 
-**🚫 Não Comercial (NC)** 
-> Você não pode usar o material para fins comerciais sem autorização expressa do autor.
-
-</td>
-<td width="50%">
-
-**🔄 Compartilha Igual (SA)**
-> Se você remixar, transformar ou criar a partir do material, deve distribuir suas contribuições sob a mesma licença.
-
-**🔗 Link da Licença**
-> [creativecommons.org/licenses/by-nc-sa/4.0/deed.pt_BR](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.pt_BR)
-
-</td>
-</tr>
-</table>
 ---
 
 ## 📋 Resumo da Licença
@@ -122,6 +104,16 @@ Fonte original: [URL do repositório]
 
 ---
 
+## 📞 Contato para Licenciamento Comercial
+
+Para usar esta extensão comercialmente, entre em contato:
+
+**Delean Mafra**  
+📧 Email: [seu-email@exemplo.com]  
+🔗 GitHub: [seu-github]  
+
+---
+
 ## 🌍 Licença Internacional
 
 **English Summary:**  
@@ -136,17 +128,15 @@ El uso comercial está prohibido sin permiso explícito.
 
 ## 📅 Histórico de Versões da Licença
 
-- **v1.0** (2025) - Licença inicial CC BY-NC-SA 4.0
-- Primeira versão com proteção anti-comercial
+- **v1.0.2** (25/10/2025) - Versão atual com remoção de banner do Google Workspace
+- **v1.0.1** (2025) - Melhorias e correções
+- **v1.0.0** (28/09/2025) - Licença inicial CC BY-NC-SA 4.0 com proteção anti-comercial
 
 ---
 
-**Copyright © 2025 Delean Mafra - Todos os direitos reservados**  
+**© 2025 Delean Mafra - Todos os direitos reservados**  
 **Protegido pela licença Creative Commons BY-NC-SA 4.0**
 
 ---
 
-
 *Para mais informações sobre Creative Commons, visite: https://creativecommons.org/*
-
-

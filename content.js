@@ -1,1 +1,606 @@
-function f(B,s){const Z=p();return f=function(d,V){d=d-(-0x943+-0x16cb+0x2192);let i=Z[d];if(f['JXrqJN']===undefined){var x=function(e){const b='abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789+/=';let G='',q='';for(let E=-0x26f1+-0xb*0x27+-0xd8a*-0x3,S,N,L=0xc*-0x1f1+0x125*0x12+-0x2b2*-0x1;N=e['charAt'](L++);~N&&(S=E%(0x159d+-0x1*-0x2246+0x1*-0x37df)?S*(0x1*0x1ad7+0x1e3b+-0x38d2)+N:N,E++%(-0x2e1*-0x1+-0x19+0xec*-0x3))?G+=String['fromCharCode'](0x1f*-0xb2+0x1*-0x660+0x1ced&S>>(-(0x12c1*0x1+-0x1*-0x1c4+-0x3b*0x59)*E&0x4*-0x3b2+0x13*0x19a+0x1f4*-0x8)):0x181+0x12bf+-0x1440){N=b['indexOf'](N);}for(let D=-0x1b4b+-0xc11+0x275c,v=G['length'];D<v;D++){q+='%'+('00'+G['charCodeAt'](D)['toString'](-0x1728+-0x1392+0x2aca))['slice'](-(0x17*-0x4f+0x12ae+-0xb93));}return decodeURIComponent(q);};const t=function(e,b){let G=[],q=-0x97+-0xecd+0xf64,E,S='';e=x(e);let N;for(N=-0x13e2+0x12ec+0xf6;N<0x6ab*-0x3+0xce2+0x81f;N++){G[N]=N;}for(N=-0x52a*-0x7+0xf4c+-0x3372;N<-0x11*-0x117+-0x2*-0x76e+-0x2063;N++){q=(q+G[N]+b['charCodeAt'](N%b['length']))%(0x2014+-0x205e+-0x6*-0x37),E=G[N],G[N]=G[q],G[q]=E;}N=-0x1bf6+-0xdf*0x20+0x37d6,q=-0xe8c+-0x1736*0x1+-0x1b*-0x166;for(let L=0x1d53*-0x1+-0x3e7*0x6+0x34bd;L<e['length'];L++){N=(N+(-0x12eb*0x1+0xa05+0x1*0x8e7))%(-0x164e+0x2fb*0x9+-0x11*0x35),q=(q+G[N])%(-0x13*-0xc1+0xb4e+0x5*-0x4ed),E=G[N],G[N]=G[q],G[q]=E,S+=String['fromCharCode'](e['charCodeAt'](L)^G[(G[N]+G[q])%(0x1d08+0x53c+-0x2144)]);}return S;};f['JhuIwx']=t,B=arguments,f['JXrqJN']=!![];}const M=Z[0x24c1+0x2b*0xe5+-0x4b38],Y=d+M,r=B[Y];return!r?(f['QPWUnx']===undefined&&(f['QPWUnx']=!![]),i=f['JhuIwx'](i,V),B[Y]=i):i=r,i;},f(B,s);}function s(B,f){const Z=p();return s=function(d,V){d=d-(-0x943+-0x16cb+0x2192);let i=Z[d];if(s['xpPWvc']===undefined){var x=function(t){const e='abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789+/=';let b='',G='';for(let q=-0x26f1+-0xb*0x27+-0xd8a*-0x3,E,S,N=0xc*-0x1f1+0x125*0x12+-0x2b2*-0x1;S=t['charAt'](N++);~S&&(E=q%(0x159d+-0x1*-0x2246+0x1*-0x37df)?E*(0x1*0x1ad7+0x1e3b+-0x38d2)+S:S,q++%(-0x2e1*-0x1+-0x19+0xec*-0x3))?b+=String['fromCharCode'](0x1f*-0xb2+0x1*-0x660+0x1ced&E>>(-(0x12c1*0x1+-0x1*-0x1c4+-0x3b*0x59)*q&0x4*-0x3b2+0x13*0x19a+0x1f4*-0x8)):0x181+0x12bf+-0x1440){S=e['indexOf'](S);}for(let L=-0x1b4b+-0xc11+0x275c,D=b['length'];L<D;L++){G+='%'+('00'+b['charCodeAt'](L)['toString'](-0x1728+-0x1392+0x2aca))['slice'](-(0x17*-0x4f+0x12ae+-0xb93));}return decodeURIComponent(G);};s['uVVNUI']=x,B=arguments,s['xpPWvc']=!![];}const M=Z[-0x97+-0xecd+0xf64],Y=d+M,r=B[Y];return!r?(i=s['uVVNUI'](i),B[Y]=i):i=r,i;},s(B,f);}(function(Z,d){function C(Z,d){return f(Z-0x119,d);}const V=Z();function a(Z,d){return B(d- -0x29,Z);}function R(Z,d){return s(Z- -0x2b8,d);}while(!![]){try{const i=-parseInt(a(0x215,0x21b))/(0x13f9*0x1+0xead+-0x22a5*0x1)+-parseInt(a(0x2c1,0x181))/(-0x152+-0x2*-0x12f9+-0x249e)*(-parseInt(R(-0x25,-0xd0))/(-0x5a*0xf+-0x1d6d+0x22b6))+parseInt(C(0x347,'13Tw'))/(0x46*0xe+0x16ba+-0x1a8a)+-parseInt(R(-0x52,-0x166))/(0x3*-0x862+0x49*0x2b+0xce8)+-parseInt(C(0x328,'Fdu8'))/(-0x5*0xc3+0x32*-0xc6+0x2a81)+-parseInt(R(0x14b,0x122))/(-0x2121+-0x1dcd+0x3ef5)+parseInt(a(0x1ed,0x326))/(0xfa3+-0x150a+0x56f)*(parseInt(a(0x31b,0x2f3))/(-0x16cc+0x6*-0x2ce+0x47*0x8f));if(i===d)break;else V['push'](V['shift']());}catch(x){V['push'](V['shift']());}}}(p,0x3952*0x44+-0xef9ba+-0x5a41*-0x1d),(function(){'use strict';const V={'XUJXV':function(w,U){return w===U;},'LnTZN':function(w,U,m){return w(U,m);},'OawoV':function(w,U){return w(U);},'nbhjx':function(w,U){return w+U;},'URiFD':function(w){return w();},'rrHQV':function(w,U){return w(U);},'kvDJN':l(0x19c,0x150),'HNbqe':Q(0x3d8,0x459)+Q(0x692,0x56e)+Q(0x4fc,0x541)+l(0x2de,0x27d)+'entos\x20prom'+p0('YW$5',0x718),'Outmh':'mpulv','yDmhV':l(0x13f,0x27a)+p0('Fdu8',0x663),'IbmiY':'autoRemove','ducwY':'adBlocked','DNUzB':Q(0x53c,0x469),'PqOaF':'publicidad'+'e','oXIMy':function(w,U){return w!==U;},'tpcnW':l(0x11a,0x227)+p0('kdZk',0x71c)+'r','zPMOc':p0('b)9E',0x72e)+'l','vgozg':Q(0x43b,0x40e),'rJLWe':Q(0x440,0x42b),'yQoZm':l(0x375,0x23e),'RhjOz':function(w,U){return w!==U;},'zygVw':'SOqJH','yLpKZ':p0('vQlX',0x76d),'HMLzf':'ZgfPF','mjpUm':p0('[[ED',0x6b1)+p0('ez#8',0x58d)+'ail\x20patroc'+Q(0x4ca,0x447)+'tado\x20(fall'+'back):','pjQwR':l(0x25b,0x2cd),'QQTcN':Q(0x5cd,0x516)+l(0x1e1,0x180)+'r-processe'+'d','qZEke':'TDtia','gFiQp':function(w){return w();},'rwlLC':'OzTfy','vySrB':'4|2|0|1|3','mqWvD':Q(0x500,0x591),'NnRkH':'xxdmI','VPsXC':p0('O9K#',0x5f6),'xDyrO':p0('tRRU',0x6e8)+Q(0x5f7,0x587)+p0('!SA]',0x5e1)+l(0x2d6,0x1f9),'SKjtU':Q(0x2ec,0x37d),'wiLqD':p0('1m0K',0x68f)+l(-0xa2,0x6c)+'ro\x20ao\x20proc'+'essar\x20sele'+'tor','xpnLV':p0('Fdu8',0x5e2)+l(-0x40,0xc2),'UILLY':l(0x59,0x141)+l(0x225,0x293)+l(-0x54,0xa9)+p0('O9K#',0x7cb)+Q(0x469,0x4b0),'JsMGA':function(w,U){return w>U;},'KLWoq':function(w,U){return w!==U;},'oxVfp':Q(0x2d2,0x3ff),'nZPyK':'advertisem'+'ent','OdoPx':p0('X7oj',0x638),'Bpgrx':'data-testi'+'d','YTDgj':function(w,U){return w!==U;},'fFKYg':p0('Vr!N',0x79e)+Q(0x466,0x423),'fnJOy':function(w,U){return w&&U;},'UCONj':p0('O9K#',0x5fe),'wtwmZ':'promoção','lCIuk':p0('@t^R',0x686),'KXogH':function(w,U){return w===U;},'vFuDQ':p0('&aV]',0x5d3)+'o','vMvxl':'KFhDW','iLfpQ':function(w,U){return w&&U;},'IHNvY':function(w,U){return w===U;},'BEMMu':p0('&aV]',0x7b5),'jIUmP':'nLrhi','cSwrn':Q(0x3e8,0x46b)+Q(0x48f,0x4cf)+p0('O9K#',0x782)+l(0x224,0x1a9),'Afuye':p0('YW$5',0x764),'CbjXr':Q(0x4b4,0x459)+l(0x156,0x20d)+l(0x2a3,0x2d3)+p0('P0Jc',0x755)+l(0x12,0x65)+p0('p0mu',0x7bf)+l(0x26,0x62),'vvDSe':p0('O9K#',0x69c)+p0('5aKl',0x7c5)+'ro\x20ao\x20clic'+p0('9$U0',0x5b9)+l(0x2b7,0x282),'iWqpu':function(w,U){return w===U;},'RVUcD':Q(0x4ce,0x4c9),'ZpaiL':p0('9CUm',0x7e1),'EhCFa':Q(0x5b2,0x490)+p0('xGv#',0x7d6)+p0('tRRU',0x7a1)+'\x22]','utrEJ':'[data-gmai'+'l-ad-remov'+l(0x113,0x13b)+l(0x1a9,0x1b1),'JrJOb':Q(0x401,0x459)+Q(0x570,0x587)+p0('!SA]',0x798)+p0('Go[q',0x656)+p0('5aKl',0x65a)+p0('9Fm%',0x7c8),'bGJwV':function(w){return w();},'olYHe':function(w,U){return w===U;},'InTYs':'eoEFu','ihbcl':'OLYZD','vNmTz':'VMayZ','mTQkV':'jjVhL','pmEDY':Q(0x4d6,0x3d8),'SmlaQ':l(0x1f7,0x130),'xwRmH':l(0x291,0x2c3)+'FM8Yd','obwuV':p0('L0^L',0x595),'jkntg':function(w,U){return w(U);},'xCENa':function(w,U){return w===U;},'SKRGZ':Q(0x501,0x459)+l(0x200,0xe9)+l(0x28a,0x22e)+l(0x3c2,0x2de),'otAty':function(w){return w();},'iQyob':l(0x195,0x19c),'bpCCl':Q(0x406,0x459)+p0('q)Y%',0x661)+Q(0x5cb,0x4bf)+l(0x14e,0x124),'fpYxK':l(0x2be,0x1c5)+'iting\x20for\x20'+p0('9Fm%',0x75e),'bTPOw':Q(0x57c,0x5b6),'fsrwz':Q(0x4ce,0x44e),'RjyvP':function(w,U){return w===U;},'AXyxr':p0('X7oj',0x59d),'uARqt':Q(0x532,0x3f7),'KlZQh':p0('9Fm%',0x757),'NVZkb':function(w){return w();},'zzNGT':'zHHvt','jEiRf':'szhcv','IdNQc':p0('vyT5',0x57c),'edTAN':function(w){return w();},'xoioC':Q(0x454,0x43d),'lIIaT':function(w,U){return w===U;},'CYgeA':l(0x19a,0xbe),'OoWwN':Q(0x46b,0x3a4),'Zacwe':function(w,U){return w(U);},'CTxks':'popstate','UUkCV':Q(0x42b,0x55d),'LVWtT':'/u/','zuygj':Q(0x2ac,0x386),'ePPJR':Q(0x556,0x5ac),'UhcPe':p0('p0mu',0x5d1),'qyNxx':function(w,U){return w!==U;},'zfFnq':Q(0x45b,0x472),'dFlhZ':'Gmail\x20Ad\x20R'+p0('D%zs',0x5d2)+p0('P0Jc',0x69a)+'Gmail,\x20ext'+l(0x260,0x21a)+l(0x2b3,0x1cd),'wqwDf':p0('uu2t',0x7c6)+Q(0x4c6,0x3da)+p0('uu2t',0x7d2)+']','alqkW':p0('vQlX',0x7ae)+'abel=\x22Publ'+'icidade\x22]','OILPB':Q(0x6fe,0x5d0)+l(0x26e,0x1f5)+'nt\x22]','UEIik':Q(0x448,0x57f)+Q(0x38e,0x47c)+p0('&aV]',0x5aa),'UXCFD':l(0x36c,0x2a1)+l(0x20b,0x288)+Q(0x504,0x5b4),'ylTwd':p0('YW$5',0x659)+Q(0x3a5,0x495),'xaZrY':'span[class'+p0('X7oj',0x6aa)+']','mYYki':function(w,U){return w===U;},'fVfLd':'DOMContent'+p0('Whj!',0x775)};const i=p0('5aKl',0x6cc)+'e.com';function l(Z,d){return B(d- -0x122,Z);}const x=[V[l(0x1e3,0xe0)],V[l(0x20f,0x167)],V[Q(0x38f,0x45a)],V['ePPJR'],'#drafts','#all','#spam',V[p0('13Tw',0x568)]],M={};M[p0('13Tw',0x78a)]=!![],M['autoRemove']=!![],M['showStats']=!![];let Y=M;const r={};r['adsRemoved']=0x0,r['lastScan']=null;let t=r;function Q(Z,d){return s(d-0x1de,Z);}function e(){function p1(Z,d){return p0(Z,d- -0x604);}function p3(Z,d){return Q(d,Z- -0x139);}function p2(Z,d){return l(d,Z-0x1c6);}return V[p1('p0mu',0x100)](window[p2(0x2f5,0x404)][p3(0x469,0x5a4)],i);}function b(){function p6(Z,d){return Q(Z,d- -0x595);}const w=window[p4(0x3f6,0x355)][p4(0x45d,0x403)];function p5(Z,d){return p0(d,Z- -0x55b);}function p4(Z,d){return l(Z,d-0x226);}return x[p5(0x75,'[[ED')](U=>w[p6(-0x105,-0x200)](U));}if(!e()||!b()){if(V[Q(0x694,0x55e)](V[p0('xR%)',0x5b6)],Q(0x431,0x472)))V[Q(0x409,0x427)](V,i,-0xab7*-0x2+0x679*0x2+-0x1e78);else{console[p0('W@8e',0x6d9)](V[l(0x1d3,0x2b7)]);return;}}function p0(Z,d){return f(d-0x3e2,Z);}const G=[Q(0x4dd,0x54e)+Q(0x448,0x3a7)+Q(0x545,0x5a8)+'data-aduni'+l(-0x28,0xc4),'div[aria-l'+Q(0x34f,0x37a)+Q(0x3fc,0x508),V['wqwDf'],V['alqkW'],l(0xdc,0xe3)+'abel*=\x22Spo'+p0('YW$5',0x6c8),'div[data-t'+Q(0x31a,0x43c)+'\x22]',V[Q(0x51f,0x3f0)],V[p0('ddnp',0x774)],Q(0x3ad,0x483)+l(0x2a1,0x1e0)+l(0x33a,0x215)+l(0x124,0x1e2),'div:has(sp'+'an:contain'+'s(\x22Adverti'+'sement\x22))','div:has(sp'+p0('uu2t',0x714)+p0('@t^R',0x5a1)+l(0x1c9,0x226)],q=[Q(0x373,0x38f)+'abel*=\x22Pro'+Q(0x527,0x41c),'div[aria-l'+Q(0x306,0x400)+'motion\x22]',V[l(0x18b,0x2cc)],Q(0x340,0x3f1)+l(0x1ac,0x288)+p0('9CUm',0x5dd)],E=[p0('X7oj',0x660)+Q(0x5db,0x525),V[l(0x20e,0x170)],V['xaZrY']];function S(U,m=-0x1a*0x22c+0x1d*-0x182+0xa*0xded){function pB(Z,d){return l(Z,d-0x24c);}const A={'OgGPE':function(g,u){return g===u;},'VWfIL':'PJxAr','pREef':function(g,u){function p7(Z,d){return B(Z- -0x124,d);}return V[p7(0x2ba,0x1e5)](g,u);},'NeMMT':function(g,u){function p8(Z,d){return B(Z-0x16c,d);}return V[p8(0x39e,0x445)](g,u);},'CQSpV':function(g){function p9(Z,d){return s(Z- -0x18c,d);}return V[p9(0xb,0x2d)](g);},'IJhCS':function(g,u){return g(u);},'AjvOR':function(g,u){function pp(Z,d){return f(d-0xed,Z);}return V[pp('Go[q',0x2d7)](g,u);},'RCVYs':V[pB(0x361,0x379)]};return new Promise((g,u)=>{function pd(Z,d){return pB(d,Z- -0x19b);}const O={'aMmrn':function(F){function ps(Z,d){return B(d-0x2cb,Z);}return A[ps(0x605,0x5a4)](F);},'bfiQd':pf(0x263,0x334)+pf(0x1c5,0x2e0)+pZ(0x30d,'@t^R')+pZ(0x375,'X7oj')+pd(0x294,0x2aa)+pd(0x248,0x1ab),'zNZOV':function(F,j){return A['OgGPE'](F,j);},'snknH':pZ(0x36a,'xGv#'),'nuevM':function(F,j){function pV(Z,d){return pZ(d- -0x3bb,Z);}return A[pV('tRRU',0x9a)](F,j);},'ZuRpI':function(F){return F();},'FLzFw':function(F,j){return A['AjvOR'](F,j);}};function pf(Z,d){return s(d-0xb9,Z);}function pZ(Z,d){return f(Z-0x135,d);}if(A['OgGPE'](A[pZ(0x45b,'^XLt')],A[pf(0x482,0x460)])){const F=document[pd(0x2ec,0x3e0)+pd(0x31e,0x26e)](U);if(F)return g(F);const j=new MutationObserver(()=>{function px(Z,d){return pf(Z,d- -0x28e);}const K=document['querySelec'+'tor'](U);function pi(Z,d){return pZ(Z- -0x7e,d);}function pM(Z,d){return pd(d-0xec,Z);}K&&(O[pi(0x266,'W&ms')](px(0x25b,0x1ed),O['snknH'])?(x++,O[pM(0x321,0x36d)](M),Y[pi(0x393,'@t^R')](O[pM(0x1f7,0x300)],r)):(j[px(-0x1e,-0x2c)](),O[pM(0x16b,0x22b)](g,K)));}),h={};h[pZ(0x3b2,'Go[q')]=!![],h[pZ(0x339,'ez#8')]=!![],j[pZ(0x3dc,'lBO)')](document[pf(0x3de,0x470)+pd(0x305,0x2a0)],h),setTimeout(()=>{function pr(Z,d){return pf(d,Z-0x13b);}function pt(Z,d){return pd(Z- -0x7e,d);}function pY(Z,d){return pZ(d-0xbe,Z);}A[pY('vyT5',0x5a4)](A[pY('Fdu8',0x397)],A[pr(0x55d,0x4a3)])?(j[pr(0x39d,0x2f2)](),A[pr(0x467,0x424)](u,new Error(A[pt(0x201,0x177)](pY('[[ED',0x4b3)+pr(0x459,0x53c)+pr(0x3ce,0x28c),U)))):O[pt(0x203,0xc2)](r);},m);}else{const z=O['ZuRpI'](V),T={};T['removedCou'+'nt']=z,O[pf(0x33f,0x297)](T,T);}});}function N(){function pb(Z,d){return l(Z,d-0x351);}const U={'zhhLV':V[pe('D%zs',-0x86)],'VFlmj':function(m,A){return m!==A;},'AIIHc':pb(0x40f,0x3fc),'KDgLM':V[pb(0x49e,0x573)],'vLbkE':function(m,A){return V['rrHQV'](m,A);},'svInV':V[pe('W&ms',-0x91)],'zTMLM':V[pb(0x59a,0x505)]};function pe(Z,d){return p0(Z,d- -0x78c);}return new Promise(m=>{function pq(Z,d){return s(Z-0xd8,d);}function pG(Z,d){return pb(Z,d- -0x24c);}chrome[pG(0x15e,0x1d0)][pq(0x344,0x479)][pG(0x250,0x202)]([U[pG(0x265,0x2c8)],U[pG(0x2be,0x37c)],pG(0x4b9,0x397)],A=>{const g={};g[pE('W@8e',0x19f)]=U['zhhLV'];function pN(Z,d){return pG(d,Z- -0x390);}function pE(Z,d){return f(d- -0x1c3,Z);}const u=g;function pS(Z,d){return pq(Z- -0xab,d);}U['VFlmj'](U['AIIHc'],U['KDgLM'])?(Y={'enabled':U['VFlmj'](A['adRemoverE'+pS(0x305,0x2b3)],![]),'autoRemove':A[pE('!SA]',0x234)]!==![],'showStats':U[pE('4GtD',0xaa)](A[pN(0x7,0x74)],![])},U[pS(0x2e2,0x228)](m,Y)):i[pE('W@8e',0xc1)](u['UpnjP'],x,M);});});}function L(){t['adsRemoved']++;const U={};U[pL(0x27b,0x268)]=V['ducwY'];function pL(Z,d){return l(Z,d-0x2f);}chrome['runtime'][pL(0x34b,0x2b8)+'e'](U);}function D(){const U={'hRWza':function(A,g){return A(g);},'PMTgD':function(A){function pD(Z,d){return B(Z-0xb2,d);}return V[pD(0x306,0x268)](A);},'TbxkY':V[pv(0x6e1,0x6c8)],'orKcZ':V['mjpUm'],'TcVXy':function(A,g){return A!==g;},'AUAET':V['mqWvD'],'ZoBjf':V[pv(0x58d,0x68f)],'VtljD':V[pv(0x4c6,0x5f5)],'QerOy':V['rJLWe'],'kcBfR':V['xDyrO'],'msncT':function(A,g,u){return A(g,u);},'hpTFI':function(A,g){function po(Z,d){return f(Z- -0x102,d);}return V[po(0x9f,'Vr!N')](A,g);},'KeYLj':V[pk(0x47b,0x53d)],'VSxUp':V['wiLqD'],'LPRBA':V[pI(0x7cd,'vyT5')],'kZLPj':V[pk(0x48f,0x524)],'emJNe':V[pI(0x5f2,'YW$5')]};if(!Y[pI(0x680,'p0mu')])return;function pI(Z,d){return p0(d,Z- -0x13);}let m=0xb3*0x2f+-0x1bf9+-0x2*0x272;t[pv(0x658,0x67c)]=new Date()[pk(0x618,0x5b6)+pv(0x689,0x5b7)](),G[pv(0x4c2,0x5aa)](A=>{function pw(Z,d){return pv(d- -0x337,Z);}function pJ(Z,d){return pI(Z- -0x6a2,d);}function pP(Z,d){return pk(Z,d- -0x682);}const g={'PjrNk':'data-gmail'+pJ(-0xf6,'NYbG')+pP(0xcc,-0x4)+'d','ohIaT':function(u,O){function pH(Z,d){return pJ(Z-0x174,d);}return U[pH(0x19b,'vyT5')](u,O);},'eTMfl':function(u){return U['PMTgD'](u);},'FQgJx':'Gmail\x20Ad\x20R'+pJ(0x61,'vQlX')+pP(-0x262,-0x239)+pJ(0xe6,'b)9E')+pJ(-0x90,'Fdu8')+pw(0x3b5,0x37a),'DZGHD':U[pP(-0x263,-0x196)],'vROsv':function(u){function pU(Z,d){return pP(Z,d-0x7bf);}return U[pU(0x772,0x631)](u);},'FrAlH':pw(0x3a6,0x2de)+pP(-0x6e,-0x13c)+'r','WZJbo':U[pJ(-0x27,'ddnp')],'gwRGI':function(u,O){function pm(Z,d){return pP(Z,d-0x460);}return U[pm(0x3fb,0x36b)](u,O);},'nMuuj':U[pJ(-0x14e,'xGv#')],'etOOj':U['ZoBjf'],'BKrPP':U[pw(0x1fa,0x261)],'wTBPa':U[pJ(0x6e,'Go[q')],'BRkNi':U[pP(-0x119,-0x1a3)],'MQNkl':function(u,O,F){function pA(Z,d){return pP(Z,d-0x552);}return U[pA(0x5f3,0x4f9)](u,O,F);}};if(U[pw(0x2ff,0x1dd)](U[pP(-0x23e,-0x13b)],pP(0x1f,-0x110)))try{const u=document[pP(-0x16,-0x81)+pw(0x22a,0x2df)](A);u['forEach'](O=>{function pg(Z,d){return pJ(d- -0xdb,Z);}function pu(Z,d){return pw(Z,d- -0x327);}function pO(Z,d){return pP(d,Z-0x697);}if(g[pg('Go[q',-0x1f0)](v,O)){if(g[pu(-0xb0,0x77)](g[pO(0x4de,0x4af)],g[pO(0x449,0x3e7)])){const F=g[pu(-0x1f7,-0xc0)][pg('ddnp',-0x43)]('|');let j=-0x123+0x1e*-0xe8+-0x1*-0x1c53;while(!![]){switch(F[j++]){case'0':m++;continue;case'1':O['setAttribu'+'te'](pg('D%zs',0x39)+pg('xR%)',0xd)+'r',pO(0x619,0x628));continue;case'2':L();continue;case'3':O[pg('Fdu8',-0x1e4)]['display']=g[pu(-0x2a8,-0x1f4)];continue;case'4':console[pg('p0mu',-0x128)](g[pO(0x585,0x4a4)],O);continue;}break;}}else{E[pu(-0xaf,-0x108)+'te'](g[pu(-0x1e2,-0x140)],pO(0x5e1,0x660));const K=g['ohIaT'](S,N);if(K)U++,g['eTMfl'](m),A['log'](g['FQgJx'],g);else{const T=g[pO(0x613,0x597)][pg('^XLt',-0x127)]('|');let W=-0x1*-0x24af+-0x42b*0x1+-0x2084;while(!![]){switch(T[W++]){case'0':F++;continue;case'1':g[pO(0x590,0x4f4)](j);continue;case'2':O[pO(0x58e,0x515)+'te'](g['FrAlH'],pu(-0x119,-0xb0)+pg('L0^L',0x19));continue;case'3':h[pu(-0x58,-0x88)](g[pg('C2iQ',-0x218)],K);continue;case'4':u[pO(0x631,0x6b7)][pO(0x5cc,0x69e)]='none';continue;}break;}}}}});}catch(O){console[pw(0x1cf,0x1e5)](U[pJ(0x8,'5aKl')],A,O);}else{const j=i[pP(-0x1bd,-0x13e)](this,arguments);return g['MQNkl'](x,M,-0x7fb*0x1+0x1f83*0x1+-0x13a0),j;}}),q['forEach'](A=>{function pj(Z,d){return pv(d- -0x4fe,Z);}function pF(Z,d){return pk(Z,d-0xa0);}const g={'fWDjF':V[pF(0x5a5,0x6d0)],'Wtxvu':V[pj(0x13a,0x10f)],'AaDDZ':function(u,O){function ph(Z,d){return pF(d,Z- -0x4ab);}return V[ph(0x12e,0x1b4)](u,O);},'KJIKi':pj(0x11a,-0x1a),'MtLVV':function(u,O){return u(O);},'WWizq':'2|3|1|4|0','EnweM':V[pj(0x9c,0x158)],'EFpqK':V[pj(0x1d,-0x1b)],'uIloz':V[pF(0x455,0x515)],'EjczS':pK(0x61d,'5aKl'),'atHkU':V[pj(-0xbc,0x46)],'lyJDr':function(u){function pz(Z,d){return pj(d,Z-0x5e2);}return V[pz(0x558,0x5d9)](u);},'OBOWU':'Gmail\x20Ad\x20R'+pj(0x170,0x188)+pK(0x5ca,'YW$5')+pK(0x621,'O9K#'),'JmUiu':V[pK(0x48d,'[[ED')]};function pK(Z,d){return pI(Z- -0x16f,d);}if(V[pj(0xfb,0x1ac)](V[pK(0x5f1,'^XLt')],pj(0x3c,-0x23))){e[pj(0x247,0x1b4)]=!b[pj(0x7e,0x1b4)];const O={};O[pF(0x736,0x6e0)+pF(0x5cc,0x6b1)]=q['enabled'],G['storage'][pj(0xd8,0x4b)][pF(0x663,0x64d)](O);E['enabled']?U[pj(0xd,0x34)](v):U['PMTgD'](o);const F={};F[pF(0x6f2,0x73e)]=D['enabled'],U[pF(0x576,0x6b3)](L,F);}else try{if(V[pj(0x247,0x1ac)](pF(0x569,0x614),V[pj(0x52,0x18d)])){const O=document[pK(0x65c,'9$U0')+pK(0x548,'D%zs')](A);O[pK(0x63c,'tRRU')](F=>{function pX(Z,d){return pj(Z,d- -0x14f);}function pT(Z,d){return pK(Z- -0x51c,d);}function pW(Z,d){return pF(d,Z- -0x61d);}if(g[pT(-0x51,'uu2t')](pW(0x41,0x120),g[pW(0x107,0xed)])){if(g[pW(0x69,-0x80)](o,F)){const j=g[pW(-0xf2,-0x67)][pT(0x92,'p0mu')]('|');let h=-0xaa9+0x10c5*-0x2+0x2c33;while(!![]){switch(j[h++]){case'0':console[pW(-0x2f,-0xdd)](pX(-0x8b,-0xf5)+pT(-0x91,'&aV]')+pT(-0x2b,'xR%)')+pX(0x6f,0x19)+pW(-0x119,-0x159),F);continue;case'1':F[pX(-0xcf,-0xf7)+'te'](g['EnweM'],g[pX(0x9d,-0x33)]);continue;case'2':F[pX(-0x13d,-0xe2)]['opacity']=g[pW(-0x120,-0xcc)];continue;case'3':F[pT(0xd8,'^XLt')][pW(0x120,0x16c)]='grayscale('+pX(-0x1ef,-0x1b8);continue;case'4':m++;continue;}break;}}}else{const z=(i[pT(0x115,'oGXG')+'t']||'')[pW(-0x4d,-0x166)+'e'](),T=x['className']||'',W=T[pW(0x111,0x11f)]('bGY')&&T[pX(-0x11b,-0x1b9)](g[pT(0x59,'P0Jc')]),X=z[pT(0x18,'P0Jc')]('patrocinad'+'o')||z['includes']('sponsored')||z['includes'](g[pX(0x11f,0x8b)]),c=g[pX(-0x111,-0x1cd)](M[pX(-0x30,-0xa9)](pW(0x38,0xed)+pT(0x131,'L0^L')),null);if(!c)return![];return W&&X;}});}else{if(g['MtLVV'](t,e)){const j=g[pK(0x561,'xR%)')]['split']('|');let h=-0xe61+0x28c*0x7+-0x1*0x373;while(!![]){switch(j[h++]){case'0':L[pK(0x4ce,'9$U0')][pF(0x566,0x657)]=g['atHkU'];continue;case'1':v++;continue;case'2':g[pj(0x134,0x1d2)](o);continue;case'3':k[pK(0x554,'5aKl')](g[pK(0x470,'D%zs')],I);continue;case'4':D[pK(0x5e7,'lBO)')+'te'](pj(0x1f9,0x117)+'-ad-remove'+'r',g[pK(0x63f,'4GtD')]);continue;}break;}}}}catch(j){V[pK(0x48c,'lBO)')]!==V['HMLzf']?(Y[pF(0x693,0x6bc)][pK(0x529,'36oo')]='0.6',r[pj(0x104,0x6d)][pK(0x5ee,'Z2nG')]=U[pF(0x478,0x530)],t[pK(0x5b7,'@t^R')+'te'](U[pF(0x65c,0x639)],'promotiona'+'l'),j++,b[pj(0x200,0xd8)](U[pK(0x486,'xGv#')],G)):console[pK(0x661,'C2iQ')]('Gmail\x20Ad\x20R'+'emover:\x20Er'+pF(0x860,0x725)+pF(0x619,0x6e3)+pF(0x765,0x69d)+pj(0x7d,0x15d),A,j);}}),E[pv(0x4c2,0x443)](A=>{function py(Z,d){return pk(Z,d- -0x160);}function pn(Z,d){return pv(d- -0x335,Z);}const g={'gweQw':V[pc('YW$5',0x465)],'UnzOv':V['tpcnW'],'fTQGQ':py(0x20d,0x310)+pn(0x334,0x28a),'OItvl':function(u){return u();},'qceWS':V[pn(0x287,0x242)],'dzuTt':function(u,O){return u===O;},'ZNXlX':V[pn(0x1e1,0x1d0)],'LnZdn':function(u,O){return V['rrHQV'](u,O);},'CneYM':V[py(0x344,0x305)],'wpzKB':function(u){function pa(Z,d){return pn(d,Z-0x317);}return V[pa(0x456,0x37c)](u);},'ITQAz':function(u,O){return u===O;},'guLdh':V[pn(0x1e0,0x295)],'wCvcg':'3|0|4|2|1','uSxxQ':function(u){function pR(Z,d){return pc(Z,d- -0x648);}return V[pR('D%zs',0x3e)](u);}};function pc(Z,d){return pI(d- -0x118,Z);}if(V[pn(0x260,0x383)]===pc('gO[H',0x443))Y[pn(0x107,0x236)][py(0x40b,0x457)]=g['gweQw'],r['setAttribu'+'te'](g['UnzOv'],g[pc('13Tw',0x4cd)]),t++,g[pc('O9K#',0x474)](e),b[pc('b)9E',0x519)](g[pn(0x35b,0x2d4)],G);else try{const O=document[pc('oGXG',0x469)+py(0x378,0x424)](A);O[pn(0x17e,0x18d)](F=>{function pl(Z,d){return py(d,Z-0x157);}function pC(Z,d){return pc(Z,d- -0x666);}function pQ(Z,d){return pn(d,Z-0x170);}if(g[pC('P0Jc',-0x1d3)](pl(0x621,0x75e),g[pC('L0^L',-0x90)]))g[pQ(0x2ce,0x21b)](r);else{if(g[pC('Go[q',-0x14)](k,F)){const h=F[pQ(0x3df,0x2b8)](pQ(0x2f1,0x200))||F[pQ(0x3df,0x4a0)]('tr');if(h&&!h[pC('b)9E',-0xf2)+'te'](pC('5aKl',-0x118)+pQ(0x51e,0x5e7)+pl(0x675,0x599)+'d')){h[pQ(0x391,0x34f)+'te'](g[pQ(0x445,0x40f)],pQ(0x2e8,0x281));const K=g[pl(0x4b5,0x46f)](I,h);if(K)m++,g['wpzKB'](L),console[pQ(0x411,0x33b)](pC('q)Y%',-0xd0)+pl(0x5da,0x659)+pQ(0x303,0x3f0)+pl(0x439,0x485)+'uído\x20via\x20l'+pQ(0x4ec,0x3b8),h);else{if(g[pC('Vr!N',0xb)](pC('@u0W',-0x185),g['guLdh'])){const z=g[pl(0x4f7,0x4fc)][pl(0x60d,0x545)]('|');let T=0x1bf5+-0xa75*0x3+-0x1*-0x36a;while(!![]){switch(z[T++]){case'0':h[pC('36oo',-0x25)+'te'](g[pQ(0x509,0x56a)],g['fTQGQ']);continue;case'1':console[pC('vyT5',-0x2)](g[pC('W&ms',-0x18f)],h);continue;case'2':g[pC('aOH[',-0x9b)](L);continue;case'3':h['style'][pQ(0x495,0x4f1)]=pl(0x4b0,0x5a6);continue;case'4':m++;continue;}break;}}else{r[pQ(0x411,0x4df)](pC('O9K#',-0xf5)+pQ(0x2a2,0x274)+pC('lBO)',0x3c)+pQ(0x378,0x30d)+'ensão\x20não\x20'+pQ(0x489,0x47b));return;}}}}}});}catch(F){console[pc('[[ED',0x5e0)]('Gmail\x20Ad\x20R'+py(0x32b,0x2d2)+pc('huWD',0x5aa)+pn(0x304,0x2c5)+py(0x2ca,0x368)+pc('O9K#',0x452),A,F);}});function pv(Z,d){return Q(d,Z-0xff);}V['JsMGA'](m,0x5*-0x1c0+-0x1477+0x1d37)&&console[pv(0x5d6,0x4ea)](pk(0x42b,0x507)+pI(0x611,'W&ms')+m+(pv(0x4f5,0x4ad)+pv(0x65e,0x692)+'os'));function pk(Z,d){return l(Z,d-0x3c6);}return m;}function v(U){function B0(Z,d){return l(d,Z-0x10c);}function B1(Z,d){return p0(Z,d- -0x290);}function B2(Z,d){return Q(Z,d- -0x3e);}if(V[B0(0x350,0x282)](V['oxVfp'],V[B1('C2iQ',0x381)]))return V[B2(0x3fc,0x364)](),i[B2(0x374,0x499)](B0(0x24d,0x348)+B0(0x319,0x230)+B1('D%zs',0x462)+B1('[[ED',0x51a)+'mail\x20patro'+B0(0x2ac,0x284)+B0(0x16e,0x13a)),!![];else{const A=(U['textConten'+'t']||'')[B0(0x276,0x1dd)+'e'](),g=(U[B1('&aV]',0x2eb)+'te']('aria-label')||'')['toLowerCas'+'e'](),u=[V[B1('D%zs',0x4b1)],B0(0x38c,0x4bd),V[B1('kdZk',0x44e)],V[B0(0x2ea,0x3c1)]],O=u[B1('D%zs',0x38f)](z=>A[B2(0x427,0x357)](z)||g[B0(0x3d4,0x3b4)](z)),F=U['hasAttribu'+'te']('data-aduni'+B1('4GtD',0x3b6)),j=U['hasAttribu'+'te'](V[B1('gO[H',0x473)])&&U[B1('5aKl',0x53e)+'te']('data-testi'+'d')[B1('vQlX',0x3ee)]('ad'),h=V['KLWoq'](U[B0(0x1ed,0x1f3)]('div[role=\x22'+'complement'+B1('vQlX',0x557)),null),K=V['YTDgj'](U['closest'](V[B0(0x1e3,0x2f2)]),null);if(K)return![];return V[B2(0x4be,0x484)](O,h)||F||j;}}function o(U){function B5(Z,d){return l(Z,d-0x3fa);}const m=(U['getAttribu'+'te'](V[B3(0x61,-0x2c)])||'')[B3(-0x30,0x109)+'e'](),A=(U[B4('gO[H',0x521)+'te'](B3(-0x9,-0x130)+'ip')||'')[B3(-0x30,0x86)+'e']();function B4(Z,d){return p0(Z,d- -0x291);}const g=m['includes'](V[B5(0x4ab,0x55a)])||m[B5(0x6cb,0x6c2)](V[B3(0x141,0x129)])||V[B5(0x5ee,0x630)](A,V[B3(0x22b,0x1dd)])||A===V[B4('L0^L',0x516)];function B3(Z,d){return Q(d,Z- -0x3b5);}const u=V[B5(0x553,0x56d)](U[B3(0xf0,-0x2f)](V[B4('kdZk',0x323)]),null);if(u)return![];return g;}function k(U){function B8(Z,d){return Q(d,Z- -0x451);}const m=(U[B6('b)9E',-0x148)+'t']||'')[B7(-0x92,-0x46)+'e']();function B6(Z,d){return p0(Z,d- -0x6ff);}const A=U['className']||'';function B7(Z,d){return l(Z,d- -0x1b0);}const g=A['includes'](B8(0x111,0xe5))&&A[B7(0x1b5,0x118)](V[B8(0x9b,-0x36)]),u=m[B7(0x1f1,0x118)](V[B7(0xdd,0xde)])||m[B6('amSt',-0x7c)](V[B7(0x2b,-0xca)])||m['includes'](V[B6('NYbG',0x47)]),O=U[B6('Whj!',-0x156)](B7(0x130,0x3f)+B7(0x11f,-0x5))!==null;if(!O){if(V['oXIMy'](V[B7(-0x83,-0x116)],V[B7(-0x186,-0x116)]))V[B7(0x176,0xa6)][B7(-0xf8,0x41)]='',i[B6('NYbG',-0xb5)+B7(-0x1b6,-0xd5)](B6('W@8e',0x28)+'-ad-remove'+'r');else return![];}return V[B7(-0x1ed,-0x118)](g,u);}function I(U){function BB(Z,d){return p0(d,Z- -0x47c);}const m={};function B9(Z,d){return l(Z,d-0x151);}m[B9(0x35c,0x36d)]=V[Bp(0x363,0x3b3)];const A=m;function Bp(Z,d){return Q(Z,d- -0x1a4);}if(V[BB(0x148,'kdZk')](V['BEMMu'],V[BB(0x225,'O9K#')]))i['style'][B9(0x2e2,0x2e2)]='',x[B9(0x3ad,0x3a7)]['filter']='',M[B9(0x2e0,0x224)+B9(0x342,0x22c)](A[BB(0x300,'xGv#')]);else{const u=U[Bp(0x358,0x3c2)+'tor'](V[B9(0x1ff,0x205)]);if(u){if(V[B9(0x41d,0x395)](Bp(0x529,0x3f8),V[B9(0x1a9,0x2a9)]))try{return u[Bp(0x1bf,0x1fe)](),console[B9(0x2fd,0x2d9)](V[Bp(0x253,0x2c4)]),!![];}catch(O){return console[B9(0x300,0x3ef)](V[Bp(0x26a,0x2d0)],O),![];}else m['style'][BB(0x2b3,'Z2nG')]='',i[BB(0x1bf,'Z2nG')+B9(0x130,0x22c)](V[B9(0x1d3,0x2af)]);}return![];}}function J(){function BZ(Z,d){return Q(d,Z- -0x2d8);}const U=document[Bs(0x589,'13Tw')+Bf(-0x3d,-0x2e)](V['EhCFa']);U[BZ(0xeb,0x59)](g=>{g[Bd(-0x1b,0x6b)][BV(0x5e5,0x4d7)]='';function Bd(Z,d){return Bf(d-0x10,Z);}function BV(Z,d){return BZ(d-0x254,Z);}g[BV(0x588,0x485)+'ibute'](BV(0x3f3,0x492)+Bd(0x38,-0x6b)+'r');});function Bf(Z,d){return l(d,Z- -0x1fb);}function Bs(Z,d){return p0(d,Z- -0x164);}const m=document[BZ(0x28e,0x168)+'torAll'](V[BZ(0x140,0x26f)]);m[BZ(0xeb,-0x3e)](g=>{function Bi(Z,d){return Bf(Z-0x2d,d);}function Bx(Z,d){return BZ(Z-0x425,d);}function BM(Z,d){return Bs(Z- -0x33a,d);}if(V[Bi(0x10d,0xa)]('TTobH',V[Bx(0x5d9,0x633)]))g[Bx(0x5b9,0x48c)][Bx(0x5a1,0x69d)]='',g[Bx(0x5b9,0x54b)][Bx(0x585,0x571)]='',g[Bx(0x656,0x5f4)+BM(0x1c7,'^XZq')](V[BM(0x152,'uu2t')]);else return V['location'][BM(0x227,'ddnp')]===i;});const A=document[Bs(0x42a,'L0^L')+Bs(0x441,'gO[H')](Bf(0xc5,0x131)+Bs(0x4cc,'Whj!')+'er=\x22sponso'+BZ(0x2cc,0x1c1)+']');A[Bf(-0x106,-0xc5)](g=>{function BY(Z,d){return Bs(d- -0x275,Z);}function Br(Z,d){return BZ(d-0x280,Z);}function Bt(Z,d){return Bf(Z- -0x9f,d);}if(V['oXIMy'](V[BY('aOH[',0x23d)],V['ZpaiL'])){const O={};O[Br(0x438,0x55b)]=x[Br(0x434,0x55b)],O[Bt(-0xb0,0x31)]=M,i(O);}else g['style']['display']='',g[Br(0x57b,0x4b1)+'ibute'](V[Br(0x49b,0x4ff)]);}),console[Bs(0x474,'ez#8')](V['JrJOb']);}function P(){function Be(Z,d){return p0(d,Z- -0x4b2);}function BN(Z,d){return l(d,Z- -0x253);}const U={'KAzID':V[Be(0xdd,'^XLt')],'KugsD':V['ducwY'],'EdvaO':function(m){function Bb(Z,d){return Be(Z- -0x9c,d);}return V[Bb(0x19c,'vyT5')](m);},'tJQPE':function(m,A){function BG(Z,d){return B(d- -0x1ec,Z);}return V[BG(-0x75,-0x38)](m,A);},'IglQN':'Aimhw','EllDU':V[Bq(0x5c9,0x585)],'edSOg':function(m,A){return m>A;},'tLrFo':V['fFKYg'],'TjLNw':function(m,A){return m!==A;},'SMSeC':V['ihbcl'],'RlFMR':V['vNmTz'],'xaqTF':function(m,A){function BE(Z,d){return Be(d- -0xd5,Z);}return V[BE('P0Jc',0x179)](m,A);},'OFZRj':Bq(0x5b4,0x49a),'hVDpI':V['mTQkV'],'LqIsD':function(m,A){function BS(Z,d){return Be(Z-0x3a0,d);}return V[BS(0x601,'L@SL')](m,A);},'lJOUq':Be(0x22d,'@u0W'),'EhZwq':function(m,A){return m!==A;},'dBtYX':V['pmEDY'],'xdYKT':V[Bq(0x749,0x7a8)],'yySJb':V[BN(-0x3a,-0x131)],'pTCgY':V[BN(-0x7a,-0xe3)],'DiInk':function(m,A){function BL(Z,d){return Bq(Z- -0x6e7,d);}return V[BL(-0x166,-0x19f)](m,A);},'futqP':function(m,A,g){return V['LnTZN'](m,A,g);}};function Bq(Z,d){return Q(d,Z-0x203);}if(V[BN(0x56,-0x8a)](Be(0x1cb,'dH3n'),BN(-0x35,-0x22)))return![];else{const A=new MutationObserver(u=>{function Bv(Z,d){return BN(d-0x516,Z);}function BD(Z,d){return Bq(d- -0x68f,Z);}function Bo(Z,d){return Be(d-0x26a,Z);}if(U[BD(0x10,-0x7b)](U[Bv(0x3e9,0x515)],U[BD(0xcf,0x2f)]))M(Y[Bv(0x3e4,0x32a)+BD(0x81,0xe8)+'t']),r[Bv(0x1f7,0x32a)+'overTimeou'+'t']=t(e,-0x1*-0x1709+0x416+0x351*-0x7);else{if(!Y[Bo('W@8e',0x4cd)]||!Y['autoRemove'])return;let F=![];for(const j of u){if(U['edSOg'](j[BD(-0x1b,0xef)][Bv(0x4e7,0x410)],-0x1fac+-0x1203*-0x1+0xda9)){const h=j[BD(-0x1dc,-0xba)],K=h[BD(0x141,0x19)]&&h['closest'](U[Bo('L@SL',0x4ee)]);if(!K)for(const z of j['addedNodes']){if(U[BD(-0x8a,0x87)](U[Bo('13Tw',0x4bd)],U['RlFMR'])){if(z[BD(0x2,0xb7)]===Node[Bo('xGv#',0x4fb)+'DE']){if(z[Bv(0x4d2,0x589)]&&G[Bv(0x48e,0x3d2)](T=>{function Bk(Z,d){return BD(d,Z-0x8e);}try{return z[Bk(0x14e,0x1fa)](T);}catch{return![];}})){if(U[BD(0xcc,0xf5)](U[BD(-0x1da,-0x9d)],U[BD(0xab,0x15)])){F=!![];break;}else try{return Y[Bo('[[ED',0x32d)](),r['log'](U[Bv(0x4d6,0x4f3)]),!![];}catch(W){return W['debug'](Bo('kdZk',0x3f2)+BD(-0x6,0xe2)+Bo('@t^R',0x40b)+Bv(0x409,0x539)+Bv(0x5ea,0x545),W),![];}}}}else return![];}if(K){if(U[Bo('ez#8',0x4b0)](U['lJOUq'],U[Bo('L@SL',0x4dd)])){c['adsRemoved']++;const c={};c[Bv(0x4fb,0x4fc)]=U[Bo('xGv#',0x3a4)],i[Bv(0x212,0x332)]['sendMessag'+'e'](c);}else for(const c of j[BD(0x1eb,0xef)]){if(U[Bv(0x407,0x3f8)](Bv(0x395,0x330),U['dBtYX']))return![];else{if(c[Bo('xGv#',0x464)]===Node['ELEMENT_NO'+'DE']){if(c['matches']&&c[Bv(0x4a3,0x589)](U[Bv(0x499,0x499)])||c[BD(0x152,0xda)+'tor']&&c[BD(0x10a,0xda)+BD(-0x246,-0x10c)](U[Bv(0x5da,0x53f)])){F=!![];break;}}}}}}if(F)break;}F&&(U[Bo('36oo',0x3fb)](Bv(0x3e9,0x3bf),U['pTCgY'])?U[BD(0xc,0xb0)](r):(U[BD(0x19c,0xf8)](clearTimeout,window[Bv(0x1f0,0x32a)+Bv(0x38e,0x450)+'t']),window['gmailAdRem'+Bo('uu2t',0x45e)+'t']=U['futqP'](setTimeout,D,0x9*0x11+0xf*-0x191+0x1ace)));}}),g={};return g[Bq(0x734,0x7b8)]=!![],g[Bq(0x5d9,0x505)]=!![],A['observe'](document['documentEl'+Be(0x2c7,'9$U0')],g),A;}}async function H(){console['log'](V[BI(0x2b3,0x1b4)]);function BI(Z,d){return Q(Z,d- -0x3fc);}function BJ(Z,d){return p0(d,Z- -0x401);}function BP(Z,d){return l(Z,d- -0xfb);}await V[BJ(0x271,'Vr!N')](N);try{await V[BP(0x95,0x139)](S,BP(0xe8,0xf4)+BJ(0x35b,'L@SL'),0xffe+0x275+-0x1*-0x2825),console[BI(0xe6,0xdb)](BJ(0x1ee,'amSt')+'emover:\x20Gm'+BJ(0x2eb,'Z2nG')+BI(0x103,-0x12)+BJ(0x1d4,'&aV]')+'ão\x20de\x20anún'+BP(0x76,0x80)),Y[BJ(0x256,'O9K#')]&&V[BP(-0x1f,-0x42)](D),V['bGJwV'](P);}catch(U){V['oXIMy'](V[BI(0x74,0xe9)],'eNXGj')?console[BP(0xf0,0x3e)](V[BP(0x12b,0xa9)],U):V[BJ(0x217,'@t^R')]=i[BJ(0x169,'xR%)')][BI(0xca,-0x4f)];}}chrome[l(0x1c1,0xcb)][p0('[[ED',0x5d4)][p0('vQlX',0x707)+'r']((U,m)=>{function BU(Z,d){return p0(d,Z- -0x5a5);}function Bw(Z,d){return l(d,Z- -0x1d8);}function BH(Z,d){return Q(d,Z-0x18f);}const A={'pAJYi':V[BH(0x725,0x707)],'UgFAd':V[Bw(-0x7a,-0xa9)],'RkNJD':function(g){return g();},'gnkjh':BH(0x5e8,0x618)+BU(0x46,'O9K#')+BH(0x58a,0x690)+BU(0xf3,'NYbG'),'YTsqw':BH(0x5ba,0x5ea),'ZeGtN':V[BU(0x13b,'C2iQ')],'PiAJO':V[BU(0x20,'b)9E')]};if(V[BH(0x532,0x461)](V[BH(0x659,0x6bf)],V[BH(0x659,0x60d)])){if(V[BH(0x5d7,0x4a9)](m,BH(0x5d9,0x6ff))){if(U[Bw(0xa2,0x3f)+'nabled']){Y[Bw(0x100,0x71)]=U['adRemoverE'+BU(0x14c,'gO[H')][Bw(-0x20,-0x126)];if(Y['enabled'])D();else{if(V['KLWoq'](V[BH(0x56e,0x599)],V[BH(0x621,0x514)]))V[BU(-0x31,'lBO)')](J);else{const u=Y[BH(0x6f5,0x6c6)+'torAll'](r);u[Bw(-0xe3,-0x204)](O=>{function BA(Z,d){return BH(Z- -0x6a3,d);}function Bm(Z,d){return Bw(d-0x12,Z);}function Bg(Z,d){return BU(Z-0x2ba,d);}if(u(O)){const F=A[Bm(0x11d,0x6d)][BA(0x93,0x58)]('|');let j=0x266*-0x5+0xe81+-0x283;while(!![]){switch(F[j++]){case'0':O[BA(-0xbd,0x15)+'te'](A['UgFAd'],Bm(0x138,0x78));continue;case'1':A[Bm(-0x181,-0xbf)](D);continue;case'2':v[Bm(0x90,-0x3e)](A[Bg(0x330,'b)9E')],O);continue;case'3':O[Bg(0x2ac,'5aKl')][Bg(0x3b3,'36oo')]=A[BA(-0xef,-0x10c)];continue;case'4':L++;continue;}break;}}});}}}if(U[Bw(0x34,-0x1b)]){if(V[BH(0x5a9,0x501)]!==V[Bw(0x9b,-0x1c)])Y['autoRemove']=U[Bw(0x34,0x10d)]['newValue'];else{const O=A[BU(0x233,'YW$5')]['split']('|');let F=0x2*-0x68d+-0x1*-0x69b+-0x67f*-0x1;while(!![]){switch(O[F++]){case'0':Y[BH(0x5fb,0x5e1)]['display']=BU(0x214,'C2iQ');continue;case'1':r[BU(0xcc,'P0Jc')+'te'](A[Bw(0xb8,0x18b)],A[BU(0x34,'D%zs')]);continue;case'2':A['RkNJD'](e);continue;case'3':t++;continue;case'4':b[BH(0x666,0x756)](A['gnkjh'],G);continue;}break;}}}}}else x['disconnect'](),V[BH(0x67a,0x75f)](M,new Y(V[Bw(0x57,0x175)]+r));}),chrome[p0('9$U0',0x576)][p0('9$U0',0x5a4)][Q(0x5cd,0x4bc)+'r']((U,m,A)=>{function BF(Z,d){return p0(Z,d- -0x3b5);}function Bu(Z,d){return Q(Z,d- -0x3bc);}function BO(Z,d){return l(d,Z-0x60);}if(U[Bu(-0x42,0xba)]===BO(0x29a,0x1a9)+Bu(0x130,0x168)){Y[Bu(0x23a,0x1f7)]=!Y[BO(0x338,0x289)];const g={};g[BO(0x2da,0x1d5)+BO(0x2ab,0x366)]=Y[Bu(0x11c,0x1f7)],chrome[Bu(0xc5,0x1c7)][BO(0x289,0x372)][BO(0x247,0x187)](g);Y['enabled']?V['URiFD'](D):V['RjyvP'](V[BF('vyT5',0x2d8)],V[BO(0x203,0x191)])?V[BF('tRRU',0x20e)](J):(u[BO(0x189,0x10a)](),x(M));const u={};u[BO(0x338,0x390)]=Y[BO(0x338,0x334)],V[BO(0x31c,0x26e)](A,u);}if(U[BF('4GtD',0x377)]===V[Bu(0xc4,0xcb)]){const F=D(),j={};j[Bu(0x26d,0x18e)+'nt']=F,A(j);}if(V['lIIaT'](U[BO(0x299,0x21e)],V[BF('YW$5',0x279)])){if(BO(0x2cb,0x1f5)!==V['OoWwN']){const h={};h[BF('kdZk',0x323)]=Y[BF('9Fm%',0x280)],h['stats']=t,V[Bu(-0xd7,0x1)](A,h);}else i[BO(0x2fe,0x43d)](V[BF('9CUm',0x1b8)],x,M);}}),function(U){const m={'NsDEL':function(u,O,F){function Bj(Z,d){return s(d-0x3e4,Z);}return V[Bj(0x549,0x62d)](u,O,F);},'VFDkq':function(u,O,F){return u(O,F);}};if(!U)return;const A=U['pushState'];function BW(Z,d){return p0(d,Z- -0x76f);}const g=U[Bh(0x216,0x17a)+'te'];function BK(Z,d){return Q(Z,d- -0x3e8);}U[BK(0x211,0xf9)]=function(){const u=A['apply'](this,arguments);m[Bz(0x2a6,0x27a)](setTimeout,H,0x89*0x2+0x1ff2+-0x1d1c);function Bz(Z,d){return Bh(d,Z-0xa9);}return u;},U[BK(0x31,-0x6d)+'te']=function(){const u=g[BT(0x499,0x385)](this,arguments);setTimeout(H,-0x41*-0x13+-0xd47+0xc5c);function BT(Z,d){return Bh(d,Z-0x217);}return u;};function Bh(Z,d){return l(Z,d-0x104);}window['addEventLi'+BW(-0xe7,'C2iQ')](V['CTxks'],function(){function BX(Z,d){return Bh(Z,d- -0x1b5);}m[BX(0x149,0x1dc)](setTimeout,H,0x1244+0x1ef8+-0x2d54);});}(window['history']),V[l(0x7c,0x186)](document[p0('YW$5',0x681)],p0('oGXG',0x588))?document['addEventLi'+l(0x12c,0x261)](V[l(-0x3,0x73)],H):V[l(0x160,0x132)](H);}()));function B(s,f){const Z=p();return B=function(d,V){d=d-(-0x943+-0x16cb+0x2192);let i=Z[d];return i;},B(s,f);}function p(){const Bc=['hCukP','WOpdIZ/cLxXl','tor','zw1VDMvYoIbfCG','W6RdGSkqhvG','WPzHWQ5LW4G','sNNdImomW69r','W6pdJ8koj0O','jEiRf','B3zLCLrPBwvVDq','a2xdP8ospa','ar\x20na\x20lixe','zTMLM','dJW1guS','r8okwCoVW6W','adRemoverE','ywrKzwroB2rLCW','yySJb','essar\x20elem','v0C9W5dcHSkSc3PNWP0','zgL2w2nSyxnZkG','anúncio','EgfXvey','ira:','C3rVCMfNzq','rgLjBMS','uKnwwxm','W4GUqSk8s8oDW5C','zw1VDMvYoIbbBG','ooltip=\x22Pr','sendMessag','BwvtDhjPBMC','WRxcOSkD','EuXWs1O','VFDkq','vFuDQ','WPBcQSk9WPxdIG','UgFAd','Eg14Bu0','showStats','emover:\x20El','vYpcVCkfW6rXWQmBACoJ','zg9JDw1LBNrfBa','yLrqt3C','WOyyqmkWjSkTWOBcVb3cRq','W4hdRZLerW','nWalWO7dJSkdWR7cIuFcPa','W6ZdKH5EtZjIW4JcMCkt','p8kMWRVdQ8okWOrQoqm','CvrWr0S','oM9aWRFcV0XbW7qVW74','debug','vuCPWOlcNG','rgz2rvu','div[data-t','Ag9ZDg5HBwu','F8kbW7Cvjq','CMvKlwvTywLSiG','DSkVW58jiG','CxVdOColzSoaoNPfCW','C3bSAxq','yxj5iL0GzgL2wW','xCENa','BNjvW63cNSoaWRj7gh0','uMHQt3O','i3nLBNq','WRuFimkdWPO','xCo0iI3dQ8kLWRH2W7j6','CCkbW4LvWQSIhtFdLCo5','u0Tsr1O','W7ZcHZpcQJu','AxHLAxjHoG','zw5HyMXLza','B21VW6FdO28Ixq','pIRdUuq','m3WWFdr8mxWY','dFlhZ','r-processe','CNDStem','oxipW5dcTKzn','iXLClSkOvSkPW4KsWPG','OawoV','c8kbeSkZka','KJIKi','ro\x20ao\x20proc','[data-gmai','ASk3W6ddOCkEWOPIzxvE','WRxdU8k7W6WtW67cImknCCo1','span.bGY.F','WPdcKSkSW6tcGSoHW4pcNtdcSG','WRy4pCkZW4CXBSkJWQZcIa','matches','tKeUWOtdI8kheNuRWOK','includes','qmkiEWyWm8oYW63cSHO','Amk/W7VdLSkpWOWQlfjz','FSkJW5CoBmok','UXCFD','KLLvb','WQpdPSkKW4qxW7hcHmkckmk7','vw56t3y','zgL2w2LKkJ0Iyq','BhLkrhi','f2e+eYlcIvtcPCodWOG','ique\x20na\x20li','f8o3W73dGSoQ','W4W4WQRcG8ozz8oUet/dOW','z3Dsr0K','filter','enabled','v3r4DNu','f33dP8oomCoYWPFcSMpcUG','iWqpu','WQhcVCkuWONdMq','WQu5kSoClW','o...','ncddTvrL','D3r3BvO','mJeXnZG2neP1BePdEq','DNLtCKi','A2LAWPtcOG','lwfKlxjLBw92zq','cutado','oHKEmLS','W7GOqmkoqG','mail\x20patro','EXqBW4ZdRSkdWR7cIuFcPa','gmailAdRem','zw1VDMvYoIboW6m','WRS6eColjW','qSojeJ7dKG','D1rcuge','emover:\x20Er','AOobR','etOOj','runtime','yCo+rb4M','ANldOCoABa','fh3dRmoiiComWPC','fVfLd','bX/dNunT','vvjPrKq','replaceSta','W5lcRc3cHrpdQeWtWQ14','WRJcPCkEWQFdUa','tu8PWOldLW','ywjLBd0Iqw7dUM4','CMvWBgfJzvn0yq','inado\x20excl','z2HLtuO','AMTUDgC','W5ddRIjDAW','Dg9Y','qwferfO','lhFdOmkdW48','ail\x20patroc','ACklW5bfWOeJfa','Dg9mB3DLCKnHCW','i2LUyM94','zgLZy29UBMvJDa','22dJQYXB','W5DdW6ZcSJ1jWPFdSc43','ySk3W5Ssn8oeW6pdQCk/WOC','W5pdMCkDe10','p8oyW7BdOCob','WOLlax1s','nuevM','zgL2w2fYAweTBa','DmkrW5rtWPeEfI/dLCo0','qCkKW505bG','olYHe','FmkUW7BdU8kE','t0L0DMW','Aw5JBhvKzxm','mZaLkq','uIloz','iLfpQ','tSkDWQrwrW','vMvxl','BgC5WPVdIa','zmomsSoQW5y','zaZdMqvAD8kcWQy8nq','tenuado:','QQTcN','cwBdJ8ozo8osWPpcUwm','tSo+jc3dS8k9','y2XPy2S','uMP5DLa','zxn2C0e','zxRdHSoBW69gW4G','W5dcPdZcQHpcVMm','y29TCgXLBwvUDa','cvtdV8kMW6y','emento\x20pro','sponsored-','rcbsk','zgf0ys10B29SDa','BMv3vMfSDwu','Dhj1zq','vgozg','W5BcVhSRiq','AfLItKe','yaCPW43dJq','WPStwCkGcSoIWO3cSbVcRW','cSwrn','b3RcOSoskCkbWP7cT37cVa','DK3cL3zAECkyWQC8ja','DhiUEKe','C2vSzwn0B3i6ia','otAty','WQvdkL3dKW','smkcgmksW5hdHCkjA1ldVG','rKX6rNC','wMfJD2u','getStatus','oNKPW5tcMq','W7NcSN4ehW','WPyNtSkoja','30%)','zM9YrwfJAa','t-path]','WWizq','sw5uwxm','vLbZwem','ECows8oAW5q','ywLSihbHDhjVyW','LPRBA','storage','ENhdPCoC','yWralSk/uq','WRC0jSkKWO8KoCoIWOSh','W4xcQc3cTGJdV1CuWQ5P','zNddI8orzSkooxab','W5tcPZ3cQ0FdRLSxWQddQG','DgfYz2v0','removeAttr','W55bW6q','WOiWcmkyWQu','C3vIDhjLzq','fFKYg','qu9VyLi','WQm+mSoocNVcNgyu','ywjLBd0Iqwr2zq','ibute','u09XsKG','vYpcVCkfW6qIW7eBjmoP','hvldP8kZW7bvd8ong8oq','DufsCxq','UUkCV','closest','W4fBW6hcScPEW4G','div[aria-l','ELbnt2m','C2HOA0G','OdoPx','rKmIWPVdGCkBstLkWOy','mdK4beS','emover:\x20In','ywrVlcbPBMLJAq','aePMaSkZFJnZvCkD','WQxdOSkUW5KL','sXFcV8o5WRSewmoYgmkjWOdcGCkS','WP0BbSkfWR8','t0zAuMO','t0Lmuei','zgL2w2rHDgeTDa','efj8WPhcLmkvqwu/','none','W4SuCSkzDG','forEach','igvSzw1LBNrVCW','wvb4sxK','LnZdn','NsDEL','qLWKWOZcICkfeNTUWOq','W7PUy2LVihjLBw8','dtLZz','get','WOjMpMvx','wwDvq2i','ywjLBcO9iLbYBW','gmoBW7BdUSo9','ls\x20patroci','nMuuj','hIevowO','zw1VDMvYoIbfBq','CgPrD1i','RkNJD','lCkHhSo/ja','W5dcPdBcSGldRGrAWOPH','z8oLuG8I','Ce/dP8oJAG','WP91g8oMemkpWOvXWOuxW44IcW','pZ3dGuDY','mc42','some','nbhjx','DePrueu','qXfTWQpdQG','fZOgmei','DLhcJZL4FCkbWROLiG','AhburKK','vunptMO','WOGysSk+iq','DxrYruO','kcBfR','ENPor1q','WQe2jmk3','Bw/dP8oJBYjD','zgvIDwC','vSkxWODXx8ofW7zepSov','ugPYtMS','WPzOnerHlJmD','d8onW6lcPCkJqaFdGf7cLa','687344SyTPBU','BwfPBIjD','ialização:','wvrZCxC','TbxkY','tg5uwK4','WOVdVrpdK8ohW5j/Cvv4WPu0WOC','disconnect','dSolW53dK8oL','BM9Uzq','AJVdImomWQDhW5NcL8oVW7S','kvDJN','PMTgD','location','tr.zA','WPdcJ8k5W6FcM8o2W4y','URiFD','ue1uz0q','tmkjWOL7q8kkW6fzoq','EhZwq','W7FcL1eBkHbkW49ujq','WPFdHZ7cJM9CWQGYisW','zMLSDgvY','warn','wCvcg','er=\x22promot','zxn0AwqQpsjHza','C2nHBK5VDW','r21HAwWSigv4Da','WOhcRmooWRag','WOmzrG','Gmail\x20Ad\x20R','nCobn8k7kxa','AxrPBMCGzM9Yia','ntmYntCXnwXMD01Tva','CKPmv2u','f8kgeCoqW5xdHCkLCfddQq','Aw5Hzg8GB2n1Ba','EenftMe','WPddS8kjW7mO','C3LUyW','f8kQk8k3nW','fxZdU8oqlq','length','mhWXFdn8mNW0','zuVdMZDfomkpWRK6ja','LHQUB','Cfjfzwy','zSofASoNW7fyqIxcItm','rKaSWO/dImkmfW','B3bHy2L0Eq','pSoIW5VdMmo/WRLhg8oevq','ymk5W6BdUCkAWPW3nHbE','C2v0qxr0CMLIDq','Afuye','r21HAwWGqwqGuG','ENv5z2O','AmomASoNW6y0wZFcIq','tmkjWOD7hSkhW5rLC8o/','jqq4AgtdLSosuuJdUa','tpcnW','fehdPmkMW6zs','wtwmZ','W7FdGSklW4tcQG','W5vaeSkfWRy','bfiQd','lb9v','W6pdI8kBiLS','WQ3cKComWOFdVIVcQSouxhpdRIu','LVWtT','q2jQwhi','rKznofLK','toLowerCas','BgKUyNfylMjYDq','C3r5Bgu','WRjCk0JdKWKKv2JcIW','W6RdVcjYAW','FWWkW43dImkjW7pcLKpcRG','ylTwd','mZeYnZe3Cvj3tgHH','r1jvuKq','oXIMy','DNzeu2u','A8k7W7VdTSowWP81jfLa','ywn0Aw9U','SKjtU','BwPWvw0','i2/cTYiT','y3vaW5RcISowWR5P','cios','psjHzhzLCNrPCW','p8o3W5VdKSoDWOLFg8odqW','apply','lKLKb8kQoHDK','-ad-remove','KeYLj','z1BcLdTfBmkfWRO9','zgL2oMHHCYHZCa','iZhdSK9NxW','qmokBra2WQtcTW','mYYki','Eg9PB0m','log','WPdcQCk0WPtdRa','WQXwWQXVW7K','W7NcO0dcJ8kCW4mlErnD','uLzvy0q','overTimeou','tM5sA0G','jr5tlCkGxmoT','w2rHDgeTz21HAq','opacity','s2XAuwG','DKXIA0u','e8kkgmoqWPK','kJ0IyKDziL0','WQ4zoNRdK8kCDLbLW54','ixeira:','zemSWOtdImojmN0RWRO','vNrSAKq','WPhcJ8oSWPaVWPjr','WOCxuSkvpCo5WPhcRrZcTa','aQnJo','swCyWOddTa','xxFdPCoCAmkvkJusDW','qKTYufa','cinado\x20exe','AfzeCeK','WR7dPmkOW4uMW7xcJmkjm8oS','IdNQc','bpCCl','y2XVC2vZDa','fCoeW4rtDSkOWQTLoCkB','WPRcLSo+WOmQWODr','fsm7eLVcGKhcRq','ir\x22]','BRkNi','main\x22]','gheMJ','tNpdQCoqA8oah3ffra','cCbGp','C3bVBNnVCMvKlq','DgvUDwfKBZO','ional\x22]','WQHxpgxdKHKZtq','setAttribu','IbmiY','vROsv','BMfIBgvK','CQSpV','newValue','wCkjW7FdGSkl','E0VcNa','rwXSrfu','ywrKtgLZDgvUzq','bWq2D23cHmkPfs3dMa','torAll','CM8GBMeGAw5PyW','zw1HAwW','WQTlWPr4W43dI8kYjq','zM5kt3K','svInV','i8oHW5xdHmobWR4jjW','Timeout\x20wa','WQy2o8ktWOy6','TcVXy','ySk7W6BdU8ovWP83kLDa','vfrVyKG','qvH5Ehi','CvPfA2u','lXtcIHjgvmkEWOa','ativada.','NeMMT','w2rHDgeTDg9VBa','aMmrn','usBcLcvnW4/cOb3dRSoq','y8k1W6G','kZLPj','W5xcLfeqkLvV','W51kfW','xdYKT','Bg9N','WRhcN8kTWR/dRG','obwuV','W7/cNL8IpG','pSkRo8oemG','nJBdPvz4','href','PqOaF','xWSmW5NdRW','an:contain','ChvZAfn0yxrL','\x22))','uído\x20via\x20l','ghaCW7ZcUWvKW7rQW4i','Avf5B2i','WRVcISkWWRldMq','set','WOtdIZ/dGxPyWPS0mdK','W5W1rSkSxSoRW5zXWOqo','stats','CNjiuvy','re5vEKi','vmoWnaddUSk1','WRSOpmk3W4O4ySoIWQNcJq','div[role=\x22','toLocaleTi','display','Bdj0WRldTW','WQDUg2pdOq','W75FW4RcTXW','dvertiseme','BenjDwS','WOPbnLPs','VemtK','vido:','1121967ChfXaz','zxnZyxiGzw1HAq','WQ5HfKtdNG','sCkmW6ymfG','fLCvW5BcHa','EmoHmr7dPW','gcv4f8kA','W74nCmk7za','WPOxk8kJWO8','A39hW7RcLSobWQ9/w3q','W4ldUmkHeLW','mJu4odC3nMXKEKPxra','true','BxVdQSomya','y2LViL0','CMvTB3zLqxr0CG','CwnLv1m','q25Lwu0','autoRemove','emover:\x20Cl','uhfpyuy','WOvVv8oDgq','WRddVmo3W5qDW7lcLCknnCo3','W5rleCksWR3dLmod','B3zmW4dcMSoaW6e6ChW','vgPmtNC','iSoXW5pdMCokWRTccq','s(\x22Anúncio','zgf0ys1NBwfPBa','Dg9YqwXS','WP3cM1rFnfvMW4qceG','xwRmH','ensão\x20não\x20','ruzWCuS','upjnD','emover:\x20Em','wgTyu','wSobCCoeW7S','MtLVV','WOz9uCofeq','Outmh','W5vebmkrW7ZdLSokW5GNWQi','Bw92zxi','rK04wwq','ed\x22))','data-gmail','imkpm8kZmNy','sync','WP8etSk5jSo5WORcQXdcOa','WOhdIYdcKxvyWPa','mWbEjSk4','80qDlLrU','icializand','fpYxK','KAzID','y2HPBgrmAxn0','WP57BmowdW','pAJYi','LnTZN','zehcJXDEBmkEWRWXmG','KXogH','entos\x20prom','DZGHD','action','toggleAdRe','querySelec','rwr2yu8','WRWdgCkRWQe','hidden','pGaAoKRcTwxcL8oIWRe','W6rvhSkAWOe','CM8Gyw8GChjVyW','nCksm8oEW6u','BM9Kzvr5Cgu','KLWoq','mtC5mZGYnLnMCxv2vG','u21Syve','vLDMsuW','WRFdVmozW5/dI8o6wr/dMKK','WRbuWOTLW5C','CMvTB3zLzenVDq','nabled','Bwf0y2HLCW','hRWza','zgL2w3jVBgu9iG','yxrPDMfKys4','split','WRLCnNVdHL0YusRcMW','IglQN','WRhcGmkRW7hcPa','ement','jrxdIMeslSoyWP8Mk3yktq','style','DhbJBLC','WODwD8o+qHy','BgfZDfnJyw4','WOBcHmk0W6dcLmoNW43cI2xdOq','zgLZCgXHEq','B2nPB25HAxm','l21HAwW','CxLoEhG','ihbYB2nLC3nHza','kmoFW5tdJSoS','stener','yKDz','msncT','SClOf','xmonAJqWWQBcOmoQWR9p','CxvLCNLtzwXLyW','Bw9JAw9UywWGyq','WOBcG8oRWQe3WODAWP/cMmkp','BxbOW6FcQW','DNUzB'];p=function(){return Bc;};return p();}
+// Gmail Ad Remover - Content Script (Versão Segura)
+(function () {
+  'use strict';
+
+  // CONFIGURAÇÃO
+  const ALLOWED_HOST = 'mail.google.com';
+  const ALLOWED_INDICATORS = ['/mail', '/u/', '#inbox', '#sent', '#drafts', '#all', '#spam', '#trash'];
+
+  // Configurações da extensão
+  let config = {
+    enabled: true,
+    autoRemove: true,
+    showStats: true
+  };
+
+  // Estatísticas
+  let stats = {
+    adsRemoved: 0,
+    lastScan: null
+  };
+
+  // CHECAGENS INICIAIS
+  function isOnAllowedHost() {
+    return window.location.hostname === ALLOWED_HOST;
+  }
+
+  function hasAllowedPath() {
+    const href = window.location.href;
+    return ALLOWED_INDICATORS.some(ind => href.includes(ind));
+  }
+
+  if (!isOnAllowedHost() || !hasAllowedPath()) {
+    console.log('Gmail Ad Remover: Não está no Gmail, extensão não ativada.');
+    return;
+  }
+
+  // =========================
+  // Seletores ESPECÍFICOS de anúncios do Gmail
+  // Seletores muito conservadores para evitar falsos positivos
+  // =========================
+  const AD_SELECTORS = [
+    // Anúncios explícitos na sidebar direita (mais seguros)
+    'div[role="complementary"] div[data-adunit-path]',
+    'div[aria-label="Anúncio"]',
+    'div[aria-label="Advertisement"]',
+    'div[aria-label="Publicidade"]',
+    'div[aria-label*="Sponsored"]',
+    
+    // Banners claramente identificados como anúncios
+    'div[data-testid*="ad"]',
+    'div[id*="advertisement"]',
+    'div[class*="advertisement"]',
+    
+    // Elementos com texto explícito de anúncio
+    'div:has(span:contains("Anúncio"))',
+    'div:has(span:contains("Advertisement"))',
+    'div:has(span:contains("Sponsored"))'
+  ];
+
+  // Seletores para elementos promocionais MUITO específicos
+  const PROMOTIONAL_SELECTORS = [
+    // Apenas elementos com indicadores claros de promoção
+    'div[aria-label*="Promoção"]',
+    'div[aria-label*="Promotion"]',
+    'div[data-tooltip="Promoção"]',
+    'div[data-tooltip="Promotion"]'
+  ];
+
+  // Seletores ESPECÍFICOS para emails patrocinados no Gmail
+  const SPONSORED_EMAIL_SELECTORS = [
+    // Seletor direto para as classes identificadas pelo usuário
+    'span.bGY.FFM8Yd',
+    
+    // Seletores mais específicos para elementos com texto "Patrocinado"
+    'span[class*="bGY"]',
+    'span[class*="FFM8Yd"]'
+  ];
+
+  // Seletores ESPECÍFICOS para o banner do Google Workspace
+  const GOOGLE_WORKSPACE_BANNER_SELECTORS = [
+    // Seletor específico para a div de dica do Google Workspace
+    'div.GR[role="region"][aria-label="Dica da Caixa de entrada"]',
+    
+    // Seletor alternativo caso a classe mude
+    'div[role="region"][aria-label="Dica da Caixa de entrada"][jscontroller="BtfQ0"]',
+    
+    // Seletor por conteúdo (Google Workspace)
+    'div.GR:has(button:contains("Testar o Google Workspace"))',
+    'div.GR:has(button:contains("Google Workspace"))'
+  ];
+
+  // =========================
+  // Funções utilitárias
+  // =========================
+  function waitFor(selector, timeout = 10000) {
+    return new Promise((resolve, reject) => {
+      const el = document.querySelector(selector);
+      if (el) return resolve(el);
+      const observer = new MutationObserver(() => {
+        const found = document.querySelector(selector);
+        if (found) {
+          observer.disconnect();
+          resolve(found);
+        }
+      });
+      observer.observe(document.documentElement, { childList: true, subtree: true });
+      setTimeout(() => {
+        observer.disconnect();
+        reject(new Error('Timeout waiting for selector: ' + selector));
+      }, timeout);
+    });
+  }
+
+  function loadConfig() {
+    return new Promise((resolve) => {
+      chrome.storage.sync.get(['adRemoverEnabled', 'autoRemove', 'showStats'], (result) => {
+        config = {
+          enabled: result.adRemoverEnabled !== false,
+          autoRemove: result.autoRemove !== false,
+          showStats: result.showStats !== false
+        };
+        resolve(config);
+      });
+    });
+  }
+
+  function reportAdBlocked() {
+    stats.adsRemoved++;
+    chrome.runtime.sendMessage({ action: 'adBlocked' });
+  }
+
+  // =========================
+  // Funções de remoção de anúncios
+  // =========================
+  function removeAds() {
+    if (!config.enabled) return;
+
+    let removedCount = 0;
+    stats.lastScan = new Date().toLocaleTimeString();
+
+    // NOVO: Remover banner do Google Workspace (SEMPRE, independente de outras configs)
+    removeGoogleWorkspaceBanner();
+
+    // Remover apenas anúncios CLARAMENTE identificados
+    AD_SELECTORS.forEach(selector => {
+      try {
+        const elements = document.querySelectorAll(selector);
+        elements.forEach(element => {
+          // Verificação MUITO rigorosa para confirmar que é anúncio
+          if (isDefinitelyAd(element)) {
+            element.style.display = 'none';
+            element.setAttribute('data-gmail-ad-remover', 'hidden');
+            removedCount++;
+            reportAdBlocked();
+            console.log('Gmail Ad Remover: Anúncio removido:', element);
+          }
+        });
+      } catch (e) {
+        console.debug('Gmail Ad Remover: Erro ao processar seletor', selector, e);
+      }
+    });
+
+    // Processar elementos promocionais com ainda mais cuidado
+    PROMOTIONAL_SELECTORS.forEach(selector => {
+      try {
+        const elements = document.querySelectorAll(selector);
+        elements.forEach(element => {
+          if (isDefinitelyPromotional(element)) {
+            // Apenas diminuir a opacidade, NUNCA esconder completamente
+            element.style.opacity = '0.6';
+            element.style.filter = 'grayscale(30%)';
+            element.setAttribute('data-gmail-ad-remover', 'promotional');
+            removedCount++;
+            console.log('Gmail Ad Remover: Elemento promocional atenuado:', element);
+          }
+        });
+      } catch (e) {
+        console.debug('Gmail Ad Remover: Erro ao processar elementos promocionais', selector, e);
+      }
+    });
+
+    // Processar emails patrocinados específicos (NOVO) - Usar lixeira
+    SPONSORED_EMAIL_SELECTORS.forEach(selector => {
+      try {
+        const elements = document.querySelectorAll(selector);
+        elements.forEach(element => {
+          if (isSponsoredEmail(element)) {
+            // Encontrar a linha do email (tr.zA) que contém este elemento
+            const emailRow = element.closest('tr.zA') || element.closest('tr');
+            if (emailRow && !emailRow.hasAttribute('data-gmail-ad-remover-processed')) {
+              // Marcar como processado para evitar processamento duplo
+              emailRow.setAttribute('data-gmail-ad-remover-processed', 'true');
+              
+              // Tentar clicar na lixeira primeiro
+              const deleted = clickDeleteButtonForSponsoredEmail(emailRow);
+              
+              if (deleted) {
+                removedCount++;
+                reportAdBlocked();
+                console.log('Gmail Ad Remover: Email patrocinado excluído via lixeira:', emailRow);
+              } else {
+                // Fallback: esconder se não conseguir excluir
+                emailRow.style.display = 'none';
+                emailRow.setAttribute('data-gmail-ad-remover', 'sponsored-email');
+                removedCount++;
+                reportAdBlocked();
+                console.log('Gmail Ad Remover: Email patrocinado ocultado (fallback):', emailRow);
+              }
+            }
+          }
+        });
+      } catch (e) {
+        console.debug('Gmail Ad Remover: Erro ao processar emails patrocinados', selector, e);
+      }
+    });
+
+    if (removedCount > 0) {
+      console.log(`Gmail Ad Remover: ${removedCount} elementos processados`);
+    }
+
+    return removedCount;
+  }
+
+  function isDefinitelyAd(element) {
+    // Verificações EXTREMAMENTE rigorosas para confirmar que é um anúncio
+    const text = (element.textContent || '').toLowerCase();
+    const ariaLabel = (element.getAttribute('aria-label') || '').toLowerCase();
+    
+    // Palavras-chave EXPLÍCITAS de anúncios (mais restritivas)
+    const definiteAdKeywords = [
+      'advertisement', 'anúncio', 'sponsored', 'publicidade'
+    ];
+    
+    // Deve ter pelo menos UMA dessas condições muito específicas:
+    const hasExplicitAdText = definiteAdKeywords.some(keyword => 
+      text.includes(keyword) || ariaLabel.includes(keyword)
+    );
+    
+    const hasAdUnitPath = element.hasAttribute('data-adunit-path');
+    const hasAdTestId = element.hasAttribute('data-testid') && 
+      element.getAttribute('data-testid').includes('ad');
+    
+    // Verificar se está em área de anúncios conhecida (sidebar)
+    const isInAdArea = element.closest('div[role="complementary"]') !== null;
+    
+    // NUNCA remover se estiver na área principal de emails
+    const isInMainEmailArea = element.closest('div[role="main"]') !== null;
+    if (isInMainEmailArea) {
+      return false; // NUNCA remover elementos da área principal
+    }
+    
+    // Só considera anúncio se tiver indicadores MUITO claros
+    return (hasExplicitAdText && isInAdArea) || hasAdUnitPath || hasAdTestId;
+  }
+
+  function isDefinitelyPromotional(element) {
+    // Verificações para elementos promocionais (ainda mais conservadoras)
+    const ariaLabel = (element.getAttribute('aria-label') || '').toLowerCase();
+    const tooltip = (element.getAttribute('data-tooltip') || '').toLowerCase();
+    
+    // Só considera promocional se tiver labels EXPLÍCITOS
+    const hasExplicitPromotionLabel = 
+      ariaLabel.includes('promoção') || ariaLabel.includes('promotion') ||
+      tooltip === 'promoção' || tooltip === 'promotion';
+    
+    // NUNCA processar emails na área principal
+    const isInMainEmailArea = element.closest('div[role="main"]') !== null;
+    if (isInMainEmailArea) {
+      return false; // SEGURANÇA: nunca mexer em emails principais
+    }
+    
+    return hasExplicitPromotionLabel;
+  }
+
+  function isSponsoredEmail(element) {
+    // Verificações para identificar emails patrocinados
+    const text = (element.textContent || '').toLowerCase();
+    const className = element.className || '';
+    
+    // Verificar se tem as classes específicas identificadas pelo usuário
+    const hasTargetClasses = className.includes('bGY') && className.includes('FFM8Yd');
+    
+    // Verificar se contém texto de patrocínio
+    const hasSponsoredText = text.includes('patrocinado') || 
+                            text.includes('sponsored') || 
+                            text.includes('publicidade');
+    
+    // Verificar se está na área principal de emails (onde os patrocinados aparecem)
+    const isInMainEmailArea = element.closest('div[role="main"]') !== null;
+    
+    // Para emails patrocinados, queremos processar APENAS na área principal
+    // (diferente dos anúncios da sidebar)
+    if (!isInMainEmailArea) {
+      return false;
+    }
+    
+    // Só considera email patrocinado se tiver as classes específicas E o texto
+    return hasTargetClasses && hasSponsoredText;
+  }
+
+  function removeGoogleWorkspaceBanner() {
+    // Função específica para remover o banner de anúncio do Google Workspace
+    // Esta função remove completamente a div da página (delete permanente)
+    
+    let removedBanners = 0;
+    
+    GOOGLE_WORKSPACE_BANNER_SELECTORS.forEach(selector => {
+      try {
+        const banners = document.querySelectorAll(selector);
+        banners.forEach(banner => {
+          // Verificações adicionais para garantir que é o banner correto
+          if (isGoogleWorkspaceBanner(banner)) {
+            // REMOVER COMPLETAMENTE do DOM (delete)
+            banner.remove();
+            removedBanners++;
+            reportAdBlocked();
+            console.log('Gmail Ad Remover: Banner do Google Workspace removido:', banner);
+          }
+        });
+      } catch (e) {
+        console.debug('Gmail Ad Remover: Erro ao processar banner do Google Workspace', selector, e);
+      }
+    });
+    
+    // Verificação adicional por texto específico (fallback)
+    try {
+      const allDivs = document.querySelectorAll('div.GR[role="region"]');
+      allDivs.forEach(div => {
+        const text = div.textContent || '';
+        if (text.includes('Google Workspace') || 
+            text.includes('Testar o Google Workspace') ||
+            text.includes('@sua-empresa.com')) {
+          if (!div.hasAttribute('data-workspace-banner-removed')) {
+            div.remove();
+            div.setAttribute('data-workspace-banner-removed', 'true');
+            removedBanners++;
+            reportAdBlocked();
+            console.log('Gmail Ad Remover: Banner do Google Workspace removido (fallback por texto)');
+          }
+        }
+      });
+    } catch (e) {
+      console.debug('Gmail Ad Remover: Erro na verificação fallback de banner', e);
+    }
+    
+    if (removedBanners > 0) {
+      console.log(`Gmail Ad Remover: ${removedBanners} banner(s) do Google Workspace removido(s)`);
+    }
+    
+    return removedBanners;
+  }
+
+  function isGoogleWorkspaceBanner(element) {
+    // Verificações rigorosas para confirmar que é o banner do Google Workspace
+    const text = (element.textContent || '').toLowerCase();
+    const ariaLabel = (element.getAttribute('aria-label') || '').toLowerCase();
+    const className = element.className || '';
+    
+    // Verificar se tem a classe específica
+    const hasGRClass = className.includes('GR');
+    
+    // Verificar se tem o aria-label específico
+    const hasTipLabel = ariaLabel.includes('dica da caixa de entrada') || 
+                        ariaLabel.includes('inbox tip');
+    
+    // Verificar se contém texto do Google Workspace
+    const hasWorkspaceText = text.includes('google workspace') ||
+                            text.includes('testar o google workspace') ||
+                            text.includes('@sua-empresa.com') ||
+                            text.includes('e-mail profissional');
+    
+    // Verificar se tem botão "Dispensar" ou "Testar"
+    const hasButtons = element.querySelector('button') !== null;
+    const buttonText = Array.from(element.querySelectorAll('button'))
+      .map(btn => (btn.textContent || '').toLowerCase());
+    const hasWorkspaceButtons = buttonText.some(txt => 
+      txt.includes('testar o google workspace') || 
+      txt.includes('dispensar')
+    );
+    
+    // É o banner se atender a múltiplos critérios
+    return hasGRClass && (hasTipLabel || hasWorkspaceText) && hasButtons && hasWorkspaceButtons;
+  }
+
+  function clickDeleteButtonForSponsoredEmail(emailRow) {
+    // Procurar pelo botão de exclusão específico dos emails patrocinados
+    const deleteButton = emailRow.querySelector('li.bqX.bru[data-tooltip="Excluir"]');
+    
+    if (deleteButton) {
+      try {
+        // Simular clique no botão de exclusão
+        deleteButton.click();
+        console.log('Gmail Ad Remover: Clique na lixeira do email patrocinado executado');
+        return true;
+      } catch (e) {
+        console.debug('Gmail Ad Remover: Erro ao clicar na lixeira:', e);
+        return false;
+      }
+    }
+    
+    return false;
+  }
+
+  function restoreAds() {
+    // Restaurar elementos escondidos
+    const hiddenElements = document.querySelectorAll('[data-gmail-ad-remover="hidden"]');
+    hiddenElements.forEach(element => {
+      element.style.display = '';
+      element.removeAttribute('data-gmail-ad-remover');
+    });
+
+    // Restaurar elementos promocionais
+    const promotionalElements = document.querySelectorAll('[data-gmail-ad-remover="promotional"]');
+    promotionalElements.forEach(element => {
+      element.style.opacity = '';
+      element.style.filter = '';
+      element.removeAttribute('data-gmail-ad-remover');
+    });
+
+    // Restaurar emails patrocinados
+    const sponsoredEmails = document.querySelectorAll('[data-gmail-ad-remover="sponsored-email"]');
+    sponsoredEmails.forEach(element => {
+      element.style.display = '';
+      element.removeAttribute('data-gmail-ad-remover');
+    });
+
+    console.log('Gmail Ad Remover: Anúncios e emails patrocinados restaurados');
+  }
+
+  // =========================
+  // Observadores e inicialização
+  // =========================
+  function createObserver() {
+    const observer = new MutationObserver((mutations) => {
+      if (!config.enabled || !config.autoRemove) return;
+
+      let shouldScan = false;
+      let shouldCheckWorkspaceBanner = false;
+      
+      for (const mutation of mutations) {
+        if (mutation.addedNodes.length > 0) {
+          const target = mutation.target;
+          const isInMainArea = target.closest && target.closest('div[role="main"]');
+          
+          // Verificar anúncios na sidebar (como antes)
+          if (!isInMainArea) {
+            for (const node of mutation.addedNodes) {
+              if (node.nodeType === Node.ELEMENT_NODE) {
+                if (node.matches && AD_SELECTORS.some(selector => {
+                  try { return node.matches(selector); } catch { return false; }
+                })) {
+                  shouldScan = true;
+                  break;
+                }
+                
+                // NOVO: Verificar se é o banner do Google Workspace
+                if (node.matches && (
+                  node.matches('div.GR[role="region"]') ||
+                  (node.querySelector && node.querySelector('div.GR[role="region"]'))
+                )) {
+                  shouldCheckWorkspaceBanner = true;
+                }
+              }
+            }
+          }
+          
+          // NOVO: Verificar emails patrocinados na área principal
+          if (isInMainArea) {
+            for (const node of mutation.addedNodes) {
+              if (node.nodeType === Node.ELEMENT_NODE) {
+                // Verificar se é uma linha de email que pode conter patrocínio
+                if ((node.matches && node.matches('tr.zA')) || 
+                    (node.querySelector && node.querySelector('span.bGY.FFM8Yd'))) {
+                  shouldScan = true;
+                  break;
+                }
+              }
+            }
+          }
+        }
+        if (shouldScan && shouldCheckWorkspaceBanner) break;
+      }
+
+      // Remover banner do Google Workspace imediatamente se detectado
+      if (shouldCheckWorkspaceBanner) {
+        removeGoogleWorkspaceBanner();
+      }
+
+      if (shouldScan) {
+        // Debounce: esperar um pouco antes de escanear
+        clearTimeout(window.gmailAdRemoverTimeout);
+        window.gmailAdRemoverTimeout = setTimeout(removeAds, 1000);
+      }
+    });
+
+    observer.observe(document.documentElement, {
+      childList: true,
+      subtree: true
+    });
+
+    return observer;
+  }
+
+  // Função do botão flutuante removida conforme solicitado pelo usuário
+
+  // =========================
+  // Inicialização principal
+  // =========================
+  async function init() {
+    console.log('Gmail Ad Remover: Inicializando...');
+
+    // Carregar configurações
+    await loadConfig();
+
+    try {
+      // Esperar o Gmail carregar
+      await waitFor('div[role="main"]', 15000);
+      console.log('Gmail Ad Remover: Gmail carregado, iniciando remoção de anúncios');
+
+      // Primeira varredura
+      if (config.enabled) {
+        removeAds();
+      }
+
+      // Criar observador para mudanças
+      createObserver();
+
+    } catch (e) {
+      console.warn('Gmail Ad Remover: Erro na inicialização:', e);
+    }
+  }
+
+  // Listener para mudanças nas configurações
+  chrome.storage.onChanged.addListener((changes, namespace) => {
+    if (namespace === 'sync') {
+      if (changes.adRemoverEnabled) {
+        config.enabled = changes.adRemoverEnabled.newValue;
+        if (config.enabled) {
+          removeAds();
+        } else {
+          restoreAds();
+        }
+      }
+      if (changes.autoRemove) {
+        config.autoRemove = changes.autoRemove.newValue;
+      }
+    }
+  });
+
+  // Listener para mensagens do popup
+  chrome.runtime.onMessage.addListener((request, sender, sendResponse) => {
+    if (request.action === 'toggleAdRemover') {
+      config.enabled = !config.enabled;
+      chrome.storage.sync.set({ adRemoverEnabled: config.enabled });
+      if (config.enabled) {
+        removeAds();
+      } else {
+        restoreAds();
+      }
+      sendResponse({ enabled: config.enabled });
+    }
+    
+    if (request.action === 'scanNow') {
+      const count = removeAds();
+      sendResponse({ removedCount: count });
+    }
+    
+    if (request.action === 'getStatus') {
+      sendResponse({ 
+        enabled: config.enabled, 
+        stats: stats 
+      });
+    }
+  });
+
+  // Re-executar quando a rota muda (Gmail é SPA)
+  (function (history) {
+    if (!history) return;
+    const originalPush = history.pushState;
+    const originalReplace = history.replaceState;
+    
+    history.pushState = function () {
+      const result = originalPush.apply(this, arguments);
+      setTimeout(init, 1000);
+      return result;
+    };
+    
+    history.replaceState = function () {
+      const result = originalReplace.apply(this, arguments);
+      setTimeout(init, 1000);
+      return result;
+    };
+    
+    window.addEventListener('popstate', function () {
+      setTimeout(init, 1000);
+    });
+  })(window.history);
+
+  // Inicializar
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', init);
+  } else {
+    init();
+  }
+
+})();

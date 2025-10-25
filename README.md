@@ -2,6 +2,8 @@
 
 ## 🚫 Extensão Segura para Remoção de Anúncios do Gmail
 
+**Versão:** 1.0.2
+
 Uma extensão do Chrome focada em **segurança** e **precisão** para remover apenas anúncios e elementos promocionais do Gmail, sem interferir no funcionamento normal da aplicação.
 
 ## ✅ Características de Segurança
@@ -77,7 +79,14 @@ Quando a extensão estiver finalizada, você poderá:
 - Elementos com aria-label "Anúncio", "Advertisement", "Publicidade"
 - Banners com data-testid contendo "ad"
 
-### **NOVO: Emails Patrocinados Removidos:**
+### **NOVO (v1.0.2): Banner do Google Workspace Removido:**
+- ✅ **Remove automaticamente** o banner "Dica da Caixa de entrada"
+- ✅ Deleta completamente a div do DOM (remoção permanente)
+- ✅ Detecta banners com "Testar o Google Workspace"
+- ✅ Múltiplos seletores para garantir remoção mesmo se o Gmail mudar
+- ✅ Monitoramento em tempo real - remove assim que aparecer
+
+### **Emails Patrocinados Removidos:**
 - ✅ **Emails marcados como "Patrocinado"** na lista principal
 - ✅ Detecta elementos com classes `bGY FFM8Yd` (conforme solicitado)
 - ✅ Remove completamente a linha do email patrocinado
@@ -149,6 +158,7 @@ Exemplo de logs seguros:
 ```
 Gmail Ad Remover: Inicializando versão segura...
 Gmail Ad Remover: Gmail carregado, iniciando remoção segura de anúncios
+Gmail Ad Remover: Banner do Google Workspace removido
 Gmail Ad Remover: 2 elementos processados
 ```
 
@@ -171,9 +181,28 @@ Gmail Ad Remover: 2 elementos processados
 2. Sugira melhorias de segurança
 3. Identifique novos seletores seguros
 
-## 📄 Licença
+## � Changelog
 
-Este projeto é de código aberto. Use responsavelmente e sempre respeitando os termos de serviço do Gmail.
+### v1.0.2 (25/10/2025)
+- ✨ **NOVO:** Remoção automática do banner do Google Workspace
+- ✨ Deleta completamente a div "Dica da Caixa de entrada"
+- 🔧 Múltiplos seletores para maior confiabilidade
+- 🔧 Monitoramento em tempo real via MutationObserver
+- 🔧 Sistema de fallback por detecção de texto
+
+### v1.0.1
+- 🐛 Correções de bugs menores
+- 🔧 Melhorias de performance
+
+### v1.0.0 (28/09/2025)
+- 🎉 Lançamento inicial
+- ✨ Remoção de anúncios da sidebar
+- ✨ Remoção de emails patrocinados
+- ✨ Interface de controle no popup
+
+## �📄 Licença
+
+Este projeto é licenciado sob Creative Commons BY-NC-SA 4.0. Use responsavelmente e sempre respeitando os termos de serviço do Gmail.
 
 ## 🤝 Suporte
 
