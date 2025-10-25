@@ -26,22 +26,36 @@ Uma extensão do Chrome focada em **segurança** e **precisão** para remover ap
 
 ```
 gmail-ad-remover-extension/
-├── manifest.json          # Configuração da extensão
+├── manifest.json          # Configuração da extensão (Manifest V3)
 ├── content.js            # Script principal (versão segura)
 ├── background.js         # Service worker
 ├── popup.html           # Interface do popup
 ├── popup.js             # Lógica do popup
 ├── popup.css            # Estilos do popup
 ├── icons/               # Ícones da extensão
-│   ├── icon16.png
-│   ├── icon48.png
-│   └── icon128.png
-└── README.md            # Este arquivo
+│   ├── icon16.png       # Ícone 16x16
+│   ├── icon32.png       # Ícone 32x32
+│   ├── icon48.png       # Ícone 48x48
+│   ├── icon128.png      # Ícone 128x128
+│   └── icon16.svg       # Ícone vetorial (fonte)
+├── README.md            # Este arquivo - Documentação principal
+├── LICENSE.md           # Licença Creative Commons BY-NC-SA 4.0
+├── SECURITY.md          # Política de segurança e privacidade
+└── MELHORIAS-v1.1.md    # Histórico de melhorias
 ```
 
 ## 🔧 Instalação
 
-### Método 1: Instalação Manual (Recomendado para teste)
+### Pré-requisitos
+A extensão precisa de ícones PNG na pasta `icons/`:
+- `icon16.png` (16x16 pixels)
+- `icon32.png` (32x32 pixels)
+- `icon48.png` (48x48 pixels)
+- `icon128.png` (128x128 pixels)
+
+> **Dica:** Você pode usar um conversor online para transformar o `icon16.svg` em PNG de diferentes tamanhos.
+
+### Método 1: Instalação Manual (Recomendado)
 
 1. **Clone ou baixe** este repositório
 2. Abra o **Chrome** e digite `chrome://extensions/`
@@ -52,25 +66,42 @@ gmail-ad-remover-extension/
 
 ### Método 2: Instalação via .crx (Futuro)
 
-Quando a extensão estiver finalizada, você poderá:
-1. Baixar o arquivo `.crx`
-2. Arrastar para `chrome://extensions/`
+Quando publicada na Chrome Web Store:
+1. Acesse a página da extensão na Web Store
+2. Clique em "Adicionar ao Chrome"
+3. Confirme as permissões
 
 ## 🎛️ Como Usar
 
-### Primeiro Uso:
+### Primeiro Uso
+
 1. Após instalar, **abra o Gmail** (mail.google.com)
 2. A extensão será ativada automaticamente
 3. Clique no ícone da extensão na barra para ver opções
+4. **Procure emails patrocinados** - eles devem desaparecer automaticamente
+5. **Verifique o console** (F12) para ver logs de atividade
 
-### Controles Disponíveis:
+### Controles Disponíveis
+
+**Pelo popup da extensão:**
 - **Toggle ON/OFF**: Ativar/desativar a remoção de anúncios
-- **Scan Now**: Executar uma varredura manual
+- **Scan Now**: Executar uma varredura manual imediata
 - **Estatísticas**: Ver quantos elementos foram processados
+- **Resetar Contadores**: Limpar estatísticas acumuladas
+- **Remoção Automática**: Configurar se deve remover automaticamente
 
-### Botão Flutuante (Opcional):
-- Um pequeno botão aparece no canto inferior direito do Gmail
-- Clique para alternar rapidamente entre ativo/inativo
+### Verificar se Está Funcionando
+
+#### ✅ **Sinais de funcionamento correto:**
+- Emails com "Patrocinado" **desaparecem** da lista
+- Banner "Testar o Google Workspace" **não aparece**
+- Badge da extensão mostra **número de bloqueios**
+- Console (F12) mostra: `Gmail Ad Remover: Email patrocinado removido`
+
+#### ❌ **Possíveis problemas:**
+1. **Ícones faltando** → Extensão não carrega
+2. **Não remove nada** → Verifique se está no Gmail e a extensão está ativa
+3. **Remove emails normais** → RELATE IMEDIATAMENTE (bug crítico)
 
 ## 🔍 Elementos Removidos
 
@@ -133,34 +164,57 @@ A extensão armazena configurações no Chrome Storage:
 
 ## 🐛 Resolução de Problemas
 
-### A extensão não está funcionando:
+### A extensão não está funcionando
 1. Verifique se está no Gmail (mail.google.com)
-2. Recarregue a página do Gmail
+2. Recarregue a página do Gmail (Ctrl+R ou F5)
 3. Verifique se a extensão está ativada em `chrome://extensions/`
+4. Confirme que os ícones PNG estão na pasta `icons/`
+5. Veja o console (F12) para mensagens de erro
 
-### Elementos não estão sendo removidos:
-1. Clique no ícone da extensão e use "Scan Now"
-2. Verifique se há anúncios na **sidebar direita** (não na área principal)
-3. Os seletores são muito específicos por segurança
+### Elementos não estão sendo removidos
+1. Clique no ícone da extensão e use **"Scan Now"**
+2. Verifique se o toggle está **ATIVO** (verde)
+3. Os seletores são muito específicos por segurança - nem tudo será removido
+4. Alguns elementos novos podem precisar de atualização da extensão
 
-### A extensão está removendo emails legítimos:
-- **Isso NÃO deve acontecer!** A extensão foi projetada para NUNCA mexer na área principal
-- Se acontecer, desative imediatamente e reporte o problema
+### A extensão está removendo emails legítimos
+- **ISSO NÃO DEVE ACONTECER!** A extensão foi projetada para NUNCA mexer em emails legítimos
+- **AÇÃO IMEDIATA:**
+  1. **Desative** a extensão (clique no toggle)
+  2. **Recarregue** a página do Gmail
+  3. **Verifique** se emails legítimos voltaram
+  4. **Relate** o problema com screenshots e logs do console
+
+### Verificação de Segurança
+Se suspeitar que algo está errado:
+1. Abra **Ferramentas do Desenvolvedor** (F12)
+2. Vá para a aba **Console**
+3. Procure por mensagens: `Gmail Ad Remover:`
+4. Copie todos os logs e **relate o problema**
 
 ## 📊 Logs e Debug
 
-Para ver o que a extensão está fazendo:
+Para ver o que a extensão está fazendo em tempo real:
+
 1. Abra as **Ferramentas do Desenvolvedor** (F12)
 2. Vá para a aba **Console**
 3. Procure por mensagens: `Gmail Ad Remover:`
 
-Exemplo de logs seguros:
+### Exemplo de logs esperados:
 ```
 Gmail Ad Remover: Inicializando versão segura...
 Gmail Ad Remover: Gmail carregado, iniciando remoção segura de anúncios
 Gmail Ad Remover: Banner do Google Workspace removido
-Gmail Ad Remover: 2 elementos processados
+Gmail Ad Remover: Email patrocinado removido: <tr class="zA">
+Gmail Ad Remover: 3 elementos processados
 ```
+
+### O que cada log significa:
+- **"Inicializando"** → Extensão está começando a executar
+- **"Gmail carregado"** → Página do Gmail detectada com sucesso
+- **"Banner removido"** → Banner do Google Workspace foi deletado
+- **"Email patrocinado removido"** → Email com "Patrocinado" foi removido
+- **"X elementos processados"** → Total de ações realizadas na varredura
 
 ## ⚠️ Avisos Importantes
 
@@ -168,6 +222,19 @@ Gmail Ad Remover: 2 elementos processados
 2. **Sempre teste em uma conta secundária** antes de usar na principal
 3. **Google pode alterar a estrutura do Gmail** - a extensão pode precisar de atualizações
 4. **Mantenha backups importantes** - embora a extensão seja segura, sempre seja cauteloso
+5. **Não coleta dados** - Tudo funciona localmente no seu navegador
+6. **Código aberto** - Você pode auditar o código a qualquer momento
+
+### 🚨 IMPORTANTE - Segurança
+
+A extensão foi programada para ser **EXTREMAMENTE CONSERVADORA**:
+
+- ✅ Só remove elementos com **classes específicas** + texto identificador
+- ✅ **Múltiplas verificações** antes de remover qualquer coisa
+- ✅ **Logs detalhados** de tudo que é removido
+- ✅ **Nunca acessa conteúdo** dos emails
+- ✅ **Não envia dados** para servidores externos
+- ✅ **Função de restaurar** disponível ao desativar
 
 ## 🔄 Atualizações e Manutenção
 
@@ -200,17 +267,35 @@ Gmail Ad Remover: 2 elementos processados
 - ✨ Remoção de emails patrocinados
 - ✨ Interface de controle no popup
 
-## �📄 Licença
+## 📄 Licença
 
 Este projeto é licenciado sob Creative Commons BY-NC-SA 4.0. Use responsavelmente e sempre respeitando os termos de serviço do Gmail.
 
+Para mais detalhes, consulte:
+- [LICENSE.md](LICENSE.md) - Licença completa
+- [SECURITY.md](SECURITY.md) - Política de segurança e privacidade
+
 ## 🤝 Suporte
 
-Para dúvidas ou problemas:
-1. Verifique este README primeiro
-2. Procure nos logs do console por erros
-3. Teste desativando outras extensões que possam conflitar
+### Para reportar problemas:
+1. Inclua os **logs do console** (F12 → Console → copiar mensagens)
+2. **Screenshot** do que foi removido incorretamente (se aplicável)
+3. **URL** onde ocorreu o problema
+4. Versão do **Chrome** (`chrome://version/`)
+5. **Passos para reproduzir** o problema
+
+### Onde reportar:
+- Abra uma **Issue** no repositório GitHub
+- Ou use o botão **"Reportar Problema"** na própria extensão
+
+### Contribuindo:
+1. **Fork** o repositório
+2. Crie uma **branch** para sua feature (`git checkout -b feature/MinhaFeature`)
+3. **Commit** suas mudanças (`git commit -m 'Adiciona MinhaFeature'`)
+4. **Push** para a branch (`git push origin feature/MinhaFeature`)
+5. Abra um **Pull Request**
 
 ---
 
-**Desenvolvido com foco em segurança e precisão** 🛡️
+**Desenvolvido com foco em segurança e precisão** 🛡️  
+**Copyright © 2025 Delean Mafra - Todos os direitos reservados**
